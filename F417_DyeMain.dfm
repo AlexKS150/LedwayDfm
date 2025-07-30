@@ -77,7 +77,7 @@ object F417_DyeMain: TFrmBase
           Top = 5
           Width = 60
           Height = 18
-          Caption = #35330#21934#34399#30908
+          Caption = #23458#25142#21934#34399
           Font.Style = [fsBold]
           ParentFont = False
         end
@@ -86,7 +86,7 @@ object F417_DyeMain: TFrmBase
           Top = 5
           Width = 60
           Height = 18
-          Caption = #23458#25142#21934#34399
+          Caption = #35330#21934#34399#30908
           Font.Style = [fsBold]
           ParentFont = False
         end
@@ -1592,7 +1592,7 @@ object F417_DyeMain: TFrmBase
       TypeFlags = []
     end
     object cdsMainCUSTORDER: TWideStringFieldWrapper
-      DisplayLabel = #23458#25142#21934#34399
+      DisplayLabel = #35330#21934#34399#30908
       FieldName = 'CUSTORDER'
       Size = 60
       TypeFlags = []
@@ -2340,7 +2340,7 @@ object F417_DyeMain: TFrmBase
       Required = True
     end
     object cdsMainORDERNO: TWideStringFieldWrapper
-      DisplayLabel = #35330#21934#34399#30908
+      DisplayLabel = #23458#25142#21934#34399
       FieldName = 'ORDERNO'
       ReadOnly = True
       Required = True
