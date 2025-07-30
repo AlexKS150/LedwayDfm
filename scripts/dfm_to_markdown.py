@@ -2,7 +2,7 @@ import os
 import argparse
 from typing import List, Dict, Any
 
-from dfm_to_json import parse_dfm
+from dfm_to_json import parse_dfm, sort_tlabels
 
 
 def object_to_markdown(obj: Dict[str, Any], level: int = 0) -> str:
@@ -26,6 +26,7 @@ def object_to_markdown(obj: Dict[str, Any], level: int = 0) -> str:
 def convert_dfm_file(path: str) -> str:
     """Convert a DFM file to a Markdown summary."""
     roots = parse_dfm(path)
+    sort_tlabels(roots)
     md_path = os.path.splitext(path)[0] + '.md'
     with open(md_path, 'w', encoding='utf-8') as f:
         for obj in roots:

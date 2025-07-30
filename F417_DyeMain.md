@@ -20,6 +20,16 @@
 | TextHeight | 18 |
 | FieldName | 'createdate' |
 
+## lb_MainForm (TLabel)
+| Property | Value |
+| --- | --- |
+| Left | 0 |
+| Top | 0 |
+| Width | 65 |
+| Height | 18 |
+| Caption | 'F_EditDye' |
+| Visible | False |
+
 ## Splitter1 (TSplitter)
 | Property | Value |
 | --- | --- |
@@ -31,16 +41,6 @@
 | Align | alTop |
 | ExplicitLeft | 1 |
 | ExplicitWidth | 1364 |
-
-## lb_MainForm (TLabel)
-| Property | Value |
-| --- | --- |
-| Left | 0 |
-| Top | 0 |
-| Width | 65 |
-| Height | 18 |
-| Caption | 'F_EditDye' |
-| Visible | False |
 
 ## pnlTop (TPanel)
 | Property | Value |

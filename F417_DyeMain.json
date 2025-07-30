@@ -24,6 +24,19 @@
     },
     "children": [
       {
+        "name": "lb_MainForm",
+        "type": "TLabel",
+        "properties": {
+          "Left": "0",
+          "Top": "0",
+          "Width": "65",
+          "Height": "18",
+          "Caption": "'F_EditDye'",
+          "Visible": "False"
+        },
+        "children": []
+      },
+      {
         "name": "Splitter1",
         "type": "TSplitter",
         "properties": {
@@ -35,19 +48,6 @@
           "Align": "alTop",
           "ExplicitLeft": "1",
           "ExplicitWidth": "1364"
-        },
-        "children": []
-      },
-      {
-        "name": "lb_MainForm",
-        "type": "TLabel",
-        "properties": {
-          "Left": "0",
-          "Top": "0",
-          "Width": "65",
-          "Height": "18",
-          "Caption": "'F_EditDye'",
-          "Visible": "False"
         },
         "children": []
       },

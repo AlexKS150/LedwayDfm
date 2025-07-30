@@ -18,6 +18,8 @@ python scripts/dfm_to_json.py <path>
 
 Numeric escape sequences like `#12345` inside the DFM are automatically
 decoded to their corresponding Unicode characters.
+TLabel objects in the resulting JSON are ordered by their `Top` and `Left`
+properties to make layout comparisons easier.
 
 Example:
 

@@ -5,6 +5,14 @@ import argparse
 from typing import List, Dict, Any
 
 
+def _parse_int(value: str) -> int:
+    """Return integer value of a DFM property string."""
+    try:
+        return int(value.strip("'"))
+    except (TypeError, ValueError):
+        return 0
+
+
 def decode_escapes(value: str) -> str:
     """Decode #123 style escapes in DFM strings."""
     def repl(match: re.Match) -> str:
@@ -73,8 +81,27 @@ def parse_dfm(file_path: str) -> List[Dict[str, Any]]:
     return roots
 
 
+def sort_tlabels(objs: List[Dict[str, Any]]) -> None:
+    """Recursively sort TLabel children by Top then Left."""
+
+    def sort_children(obj: Dict[str, Any]) -> None:
+        for child in obj.get('children', []):
+            sort_children(child)
+        obj['children'].sort(
+            key=lambda c: (
+                c['type'] != 'TLabel',
+                _parse_int(c['properties'].get('Top', '0')) if c['type'] == 'TLabel' else 0,
+                _parse_int(c['properties'].get('Left', '0')) if c['type'] == 'TLabel' else 0,
+            )
+        )
+
+    for root in objs:
+        sort_children(root)
+
+
 def convert_dfm_file(path: str) -> str:
     data = parse_dfm(path)
+    sort_tlabels(data)
     json_path = os.path.splitext(path)[0] + '.json'
     with open(json_path, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
