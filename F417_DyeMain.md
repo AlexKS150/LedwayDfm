@@ -94,7 +94,7 @@
 | Top | 5 |
 | Width | 60 |
 | Height | 18 |
-| Caption | 客戶單號 |
+| Caption | 訂單號碼 |
 
 ##### lbCUSTORDER (TLabel)
 | Property | Value |
@@ -103,7 +103,7 @@
 | Top | 5 |
 | Width | 60 |
 | Height | 18 |
-| Caption | 訂單號碼 |
+| Caption | 客戶單號 |
 
 ##### lbLBTYPE (TLabel)
 | Property | Value |
@@ -281,7 +281,7 @@
 | --- | --- |
 | Left | 5 |
 | Top | 23 |
-| Width | 250 |
+| Width | 263 |
 | Height | 26 |
 | Color | clAqua |
 | DataField | 'SEQNO' |
@@ -294,7 +294,7 @@
 | --- | --- |
 | Left | 267 |
 | Top | 23 |
-| Width | 250 |
+| Width | 263 |
 | Height | 26 |
 | DropDownAlignment | taLeftJustify |
 | DataField | 'FACTNO_abbr' |
@@ -312,7 +312,7 @@
 | --- | --- |
 | Left | 529 |
 | Top | 23 |
-| Width | 250 |
+| Width | 263 |
 | Height | 26 |
 | Color | clMoneyGreen |
 | DataField | 'ORDERNO' |
@@ -324,7 +324,7 @@
 | --- | --- |
 | Left | 791 |
 | Top | 23 |
-| Width | 250 |
+| Width | 263 |
 | Height | 26 |
 | DataField | 'CUSTORDER' |
 | DataSource | dsMainCDS |
@@ -335,7 +335,7 @@
 | --- | --- |
 | Left | 5 |
 | Top | 73 |
-| Width | 250 |
+| Width | 263 |
 | Height | 26 |
 | DropDownAlignment | taLeftJustify |
 | DataField | 'LBTYPE_abbr' |
@@ -352,7 +352,7 @@
 | --- | --- |
 | Left | 267 |
 | Top | 73 |
-| Width | 250 |
+| Width | 263 |
 | Height | 26 |
 | DropDownAlignment | taLeftJustify |
 | DataField | 'PRODNO_abbr' |
@@ -370,7 +370,7 @@
 | --- | --- |
 | Left | 529 |
 | Top | 73 |
-| Width | 250 |
+| Width | 263 |
 | Height | 26 |
 | Color | clTeal |
 | DataField | 'PRODNAME' |
@@ -382,7 +382,7 @@
 | --- | --- |
 | Left | 791 |
 | Top | 73 |
-| Width | 250 |
+| Width | 263 |
 | Height | 26 |
 | DataField | 'UPWIDTH' |
 | DataSource | dsMainCDS |
@@ -393,7 +393,7 @@
 | --- | --- |
 | Left | 5 |
 | Top | 123 |
-| Width | 250 |
+| Width | 263 |
 | Height | 26 |
 | DataField | 'DNWIDTH' |
 | DataSource | dsMainCDS |
@@ -404,7 +404,7 @@
 | --- | --- |
 | Left | 267 |
 | Top | 123 |
-| Width | 250 |
+| Width | 263 |
 | Height | 26 |
 | DataField | 'DNWEIGHT' |
 | DataSource | dsMainCDS |
@@ -415,7 +415,7 @@
 | --- | --- |
 | Left | 529 |
 | Top | 123 |
-| Width | 250 |
+| Width | 263 |
 | Height | 26 |
 | DataField | 'UPWEIGHT' |
 | DataSource | dsMainCDS |
@@ -426,7 +426,7 @@
 | --- | --- |
 | Left | 791 |
 | Top | 123 |
-| Width | 250 |
+| Width | 263 |
 | Height | 26 |
 | ShowButton | True |
 | Style | csDropDown |
@@ -446,7 +446,7 @@
 | --- | --- |
 | Left | 5 |
 | Top | 173 |
-| Width | 250 |
+| Width | 263 |
 | Height | 26 |
 | ShowButton | True |
 | Style | csDropDown |
@@ -466,7 +466,7 @@
 | --- | --- |
 | Left | 267 |
 | Top | 173 |
-| Width | 250 |
+| Width | 263 |
 | Height | 26 |
 | ShowButton | True |
 | Style | csDropDown |
@@ -486,7 +486,7 @@
 | --- | --- |
 | Left | 529 |
 | Top | 173 |
-| Width | 250 |
+| Width | 263 |
 | Height | 26 |
 | DataField | 'LOSE' |
 | DataSource | dsMainCDS |
@@ -497,7 +497,7 @@
 | --- | --- |
 | Left | 791 |
 | Top | 173 |
-| Width | 250 |
+| Width | 263 |
 | Height | 26 |
 | DropDownAlignment | taLeftJustify |
 | DataField | 'MRPNO_abbr' |
@@ -515,7 +515,7 @@
 | --- | --- |
 | Left | 5 |
 | Top | 223 |
-| Width | 250 |
+| Width | 263 |
 | Height | 26 |
 | CalendarAttributes.Font.Charset | DEFAULT_CHARSET |
 | CalendarAttributes.Font.Color | clWindowText |
@@ -535,7 +535,7 @@
 | --- | --- |
 | Left | 267 |
 | Top | 223 |
-| Width | 250 |
+| Width | 263 |
 | Height | 26 |
 | DataField | 'lotall' |
 | DataSource | dsMainCDS |
@@ -546,7 +546,7 @@
 | --- | --- |
 | Left | 529 |
 | Top | 223 |
-| Width | 250 |
+| Width | 263 |
 | Height | 26 |
 | DataField | 'checkall' |
 | DataSource | dsMainCDS |
@@ -557,7 +557,7 @@
 | --- | --- |
 | Left | 791 |
 | Top | 223 |
-| Width | 250 |
+| Width | 263 |
 | Height | 26 |
 | CalendarAttributes.Font.Charset | DEFAULT_CHARSET |
 | CalendarAttributes.Font.Color | clWindowText |
@@ -577,7 +577,7 @@
 | --- | --- |
 | Left | 5 |
 | Top | 273 |
-| Width | 250 |
+| Width | 263 |
 | Height | 26 |
 | DataField | 'DROPW' |
 | DataSource | dsMainCDS |
@@ -588,7 +588,7 @@
 | --- | --- |
 | Left | 267 |
 | Top | 273 |
-| Width | 250 |
+| Width | 263 |
 | Height | 26 |
 | DataField | 'DELQTY' |
 | DataSource | dsMainCDS |
@@ -599,7 +599,7 @@
 | --- | --- |
 | Left | 529 |
 | Top | 273 |
-| Width | 250 |
+| Width | 263 |
 | Height | 100 |
 | DataField | 'remark' |
 | DataSource | dsMainCDS |
@@ -1650,7 +1650,7 @@
 ### cdsMainCUSTORDER (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | 訂單號碼 |
+| DisplayLabel | 客戶單號 |
 | FieldName | 'CUSTORDER' |
 | Size | 60 |
 | TypeFlags | [] |
@@ -2666,7 +2666,7 @@
 ### cdsMainORDERNO (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | 客戶單號 |
+| DisplayLabel | 訂單號碼 |
 | FieldName | 'ORDERNO' |
 | ReadOnly | True |
 | Required | True |

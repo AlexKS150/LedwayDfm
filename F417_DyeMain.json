@@ -116,7 +116,7 @@
                       "Top": "5",
                       "Width": "60",
                       "Height": "18",
-                      "Caption": "客戶單號"
+                      "Caption": "訂單號碼"
                     },
                     "children": []
                   },
@@ -128,7 +128,7 @@
                       "Top": "5",
                       "Width": "60",
                       "Height": "18",
-                      "Caption": "訂單號碼"
+                      "Caption": "客戶單號"
                     },
                     "children": []
                   },
@@ -366,7 +366,7 @@
                     "properties": {
                       "Left": "5",
                       "Top": "23",
-                      "Width": "250",
+                      "Width": "263",
                       "Height": "26",
                       "Color": "clAqua",
                       "DataField": "'SEQNO'",
@@ -382,7 +382,7 @@
                     "properties": {
                       "Left": "267",
                       "Top": "23",
-                      "Width": "250",
+                      "Width": "263",
                       "Height": "26",
                       "DropDownAlignment": "taLeftJustify",
                       "DataField": "'FACTNO_abbr'",
@@ -403,7 +403,7 @@
                     "properties": {
                       "Left": "529",
                       "Top": "23",
-                      "Width": "250",
+                      "Width": "263",
                       "Height": "26",
                       "Color": "clMoneyGreen",
                       "DataField": "'ORDERNO'",
@@ -418,7 +418,7 @@
                     "properties": {
                       "Left": "791",
                       "Top": "23",
-                      "Width": "250",
+                      "Width": "263",
                       "Height": "26",
                       "DataField": "'CUSTORDER'",
                       "DataSource": "dsMainCDS",
@@ -432,7 +432,7 @@
                     "properties": {
                       "Left": "5",
                       "Top": "73",
-                      "Width": "250",
+                      "Width": "263",
                       "Height": "26",
                       "DropDownAlignment": "taLeftJustify",
                       "DataField": "'LBTYPE_abbr'",
@@ -452,7 +452,7 @@
                     "properties": {
                       "Left": "267",
                       "Top": "73",
-                      "Width": "250",
+                      "Width": "263",
                       "Height": "26",
                       "DropDownAlignment": "taLeftJustify",
                       "DataField": "'PRODNO_abbr'",
@@ -473,7 +473,7 @@
                     "properties": {
                       "Left": "529",
                       "Top": "73",
-                      "Width": "250",
+                      "Width": "263",
                       "Height": "26",
                       "Color": "clTeal",
                       "DataField": "'PRODNAME'",
@@ -488,7 +488,7 @@
                     "properties": {
                       "Left": "791",
                       "Top": "73",
-                      "Width": "250",
+                      "Width": "263",
                       "Height": "26",
                       "DataField": "'UPWIDTH'",
                       "DataSource": "dsMainCDS",
@@ -502,7 +502,7 @@
                     "properties": {
                       "Left": "5",
                       "Top": "123",
-                      "Width": "250",
+                      "Width": "263",
                       "Height": "26",
                       "DataField": "'DNWIDTH'",
                       "DataSource": "dsMainCDS",
@@ -516,7 +516,7 @@
                     "properties": {
                       "Left": "267",
                       "Top": "123",
-                      "Width": "250",
+                      "Width": "263",
                       "Height": "26",
                       "DataField": "'DNWEIGHT'",
                       "DataSource": "dsMainCDS",
@@ -530,7 +530,7 @@
                     "properties": {
                       "Left": "529",
                       "Top": "123",
-                      "Width": "250",
+                      "Width": "263",
                       "Height": "26",
                       "DataField": "'UPWEIGHT'",
                       "DataSource": "dsMainCDS",
@@ -544,7 +544,7 @@
                     "properties": {
                       "Left": "791",
                       "Top": "123",
-                      "Width": "250",
+                      "Width": "263",
                       "Height": "26",
                       "ShowButton": "True",
                       "Style": "csDropDown",
@@ -567,7 +567,7 @@
                     "properties": {
                       "Left": "5",
                       "Top": "173",
-                      "Width": "250",
+                      "Width": "263",
                       "Height": "26",
                       "ShowButton": "True",
                       "Style": "csDropDown",
@@ -590,7 +590,7 @@
                     "properties": {
                       "Left": "267",
                       "Top": "173",
-                      "Width": "250",
+                      "Width": "263",
                       "Height": "26",
                       "ShowButton": "True",
                       "Style": "csDropDown",
@@ -613,7 +613,7 @@
                     "properties": {
                       "Left": "529",
                       "Top": "173",
-                      "Width": "250",
+                      "Width": "263",
                       "Height": "26",
                       "DataField": "'LOSE'",
                       "DataSource": "dsMainCDS",
@@ -627,7 +627,7 @@
                     "properties": {
                       "Left": "791",
                       "Top": "173",
-                      "Width": "250",
+                      "Width": "263",
                       "Height": "26",
                       "DropDownAlignment": "taLeftJustify",
                       "DataField": "'MRPNO_abbr'",
@@ -648,7 +648,7 @@
                     "properties": {
                       "Left": "5",
                       "Top": "223",
-                      "Width": "250",
+                      "Width": "263",
                       "Height": "26",
                       "CalendarAttributes.Font.Charset": "DEFAULT_CHARSET",
                       "CalendarAttributes.Font.Color": "clWindowText",
@@ -671,7 +671,7 @@
                     "properties": {
                       "Left": "267",
                       "Top": "223",
-                      "Width": "250",
+                      "Width": "263",
                       "Height": "26",
                       "DataField": "'lotall'",
                       "DataSource": "dsMainCDS",
@@ -685,7 +685,7 @@
                     "properties": {
                       "Left": "529",
                       "Top": "223",
-                      "Width": "250",
+                      "Width": "263",
                       "Height": "26",
                       "DataField": "'checkall'",
                       "DataSource": "dsMainCDS",
@@ -699,7 +699,7 @@
                     "properties": {
                       "Left": "791",
                       "Top": "223",
-                      "Width": "250",
+                      "Width": "263",
                       "Height": "26",
                       "CalendarAttributes.Font.Charset": "DEFAULT_CHARSET",
                       "CalendarAttributes.Font.Color": "clWindowText",
@@ -722,7 +722,7 @@
                     "properties": {
                       "Left": "5",
                       "Top": "273",
-                      "Width": "250",
+                      "Width": "263",
                       "Height": "26",
                       "DataField": "'DROPW'",
                       "DataSource": "dsMainCDS",
@@ -736,7 +736,7 @@
                     "properties": {
                       "Left": "267",
                       "Top": "273",
-                      "Width": "250",
+                      "Width": "263",
                       "Height": "26",
                       "DataField": "'DELQTY'",
                       "DataSource": "dsMainCDS",
@@ -750,7 +750,7 @@
                     "properties": {
                       "Left": "529",
                       "Top": "273",
-                      "Width": "250",
+                      "Width": "263",
                       "Height": "100",
                       "DataField": "'remark'",
                       "DataSource": "dsMainCDS",
@@ -2053,7 +2053,7 @@
             "name": "cdsMainCUSTORDER",
             "type": "TWideStringFieldWrapper",
             "properties": {
-              "DisplayLabel": "訂單號碼",
+              "DisplayLabel": "客戶單號",
               "FieldName": "'CUSTORDER'",
               "Size": "60",
               "TypeFlags": "[]"
@@ -3471,7 +3471,7 @@
             "name": "cdsMainORDERNO",
             "type": "TWideStringFieldWrapper",
             "properties": {
-              "DisplayLabel": "客戶單號",
+              "DisplayLabel": "訂單號碼",
               "FieldName": "'ORDERNO'",
               "ReadOnly": "True",
               "Required": "True",

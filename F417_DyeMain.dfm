@@ -216,7 +216,7 @@ object F417_DyeMain: TFrmBase
         object edtSEQNO: TDBEdit
           Left = 5
           Top = 23
-          Width = 250
+          Width = 263
           Height = 26
           Color = clAqua
           DataField = 'SEQNO'
@@ -227,7 +227,7 @@ object F417_DyeMain: TFrmBase
         object edtFACTNO: TwwDBLookupComboWrapper
           Left = 267
           Top = 23
-          Width = 250
+          Width = 263
           Height = 26
           DropDownAlignment = taLeftJustify
           DataField = 'FACTNO_abbr'
@@ -243,7 +243,7 @@ object F417_DyeMain: TFrmBase
         object edtORDERNO: TDBEdit
           Left = 529
           Top = 23
-          Width = 250
+          Width = 263
           Height = 26
           Color = clMoneyGreen
           DataField = 'ORDERNO'
@@ -253,7 +253,7 @@ object F417_DyeMain: TFrmBase
         object edtCUSTORDER: TDBEdit
           Left = 791
           Top = 23
-          Width = 250
+          Width = 263
           Height = 26
           DataField = 'CUSTORDER'
           DataSource = dsMainCDS
@@ -262,7 +262,7 @@ object F417_DyeMain: TFrmBase
         object edtLBTYPE: TwwDBLookupComboWrapper
           Left = 5
           Top = 73
-          Width = 250
+          Width = 263
           Height = 26
           DropDownAlignment = taLeftJustify
           DataField = 'LBTYPE_abbr'
@@ -277,7 +277,7 @@ object F417_DyeMain: TFrmBase
         object edtPRODNO: TwwDBLookupComboWrapper
           Left = 267
           Top = 73
-          Width = 250
+          Width = 263
           Height = 26
           DropDownAlignment = taLeftJustify
           DataField = 'PRODNO_abbr'
@@ -293,7 +293,7 @@ object F417_DyeMain: TFrmBase
         object edtPRODNAME: TDBEdit
           Left = 529
           Top = 73
-          Width = 250
+          Width = 263
           Height = 26
           Color = clTeal
           DataField = 'PRODNAME'
@@ -303,7 +303,7 @@ object F417_DyeMain: TFrmBase
         object edtUPWIDTH: TDBEdit
           Left = 791
           Top = 73
-          Width = 250
+          Width = 263
           Height = 26
           DataField = 'UPWIDTH'
           DataSource = dsMainCDS
@@ -312,7 +312,7 @@ object F417_DyeMain: TFrmBase
         object edtDNWIDTH: TDBEdit
           Left = 5
           Top = 123
-          Width = 250
+          Width = 263
           Height = 26
           DataField = 'DNWIDTH'
           DataSource = dsMainCDS
@@ -321,7 +321,7 @@ object F417_DyeMain: TFrmBase
         object edtDNWEIGHT: TDBEdit
           Left = 267
           Top = 123
-          Width = 250
+          Width = 263
           Height = 26
           DataField = 'DNWEIGHT'
           DataSource = dsMainCDS
@@ -330,7 +330,7 @@ object F417_DyeMain: TFrmBase
         object edtUPWEIGHT: TDBEdit
           Left = 529
           Top = 123
-          Width = 250
+          Width = 263
           Height = 26
           DataField = 'UPWEIGHT'
           DataSource = dsMainCDS
@@ -339,7 +339,7 @@ object F417_DyeMain: TFrmBase
         object edtWEIGHTUNIT: TwwDBComboBox
           Left = 791
           Top = 123
-          Width = 250
+          Width = 263
           Height = 26
           ShowButton = True
           Style = csDropDown
@@ -360,7 +360,7 @@ object F417_DyeMain: TFrmBase
         object edtRinse: TwwDBComboBox
           Left = 5
           Top = 173
-          Width = 250
+          Width = 263
           Height = 26
           ShowButton = True
           Style = csDropDown
@@ -380,7 +380,7 @@ object F417_DyeMain: TFrmBase
         object edtTrim: TwwDBComboBox
           Left = 267
           Top = 173
-          Width = 250
+          Width = 263
           Height = 26
           ShowButton = True
           Style = csDropDown
@@ -400,7 +400,7 @@ object F417_DyeMain: TFrmBase
         object edtLOSE: TDBEdit
           Left = 529
           Top = 173
-          Width = 250
+          Width = 263
           Height = 26
           DataField = 'LOSE'
           DataSource = dsMainCDS
@@ -409,7 +409,7 @@ object F417_DyeMain: TFrmBase
         object edtMRPNO: TwwDBLookupComboWrapper
           Left = 791
           Top = 173
-          Width = 250
+          Width = 263
           Height = 26
           DropDownAlignment = taLeftJustify
           DataField = 'MRPNO_abbr'
@@ -425,7 +425,7 @@ object F417_DyeMain: TFrmBase
         object edtDELDATE: TwwDBDateTimePicker
           Left = 5
           Top = 223
-          Width = 250
+          Width = 263
           Height = 26
           CalendarAttributes.Font.Charset = DEFAULT_CHARSET
           CalendarAttributes.Font.Color = clWindowText
@@ -443,7 +443,7 @@ object F417_DyeMain: TFrmBase
         object edtlotall: TDBEdit
           Left = 267
           Top = 223
-          Width = 250
+          Width = 263
           Height = 26
           DataField = 'lotall'
           DataSource = dsMainCDS
@@ -452,7 +452,7 @@ object F417_DyeMain: TFrmBase
         object edtcheckall: TDBEdit
           Left = 529
           Top = 223
-          Width = 250
+          Width = 263
           Height = 26
           DataField = 'checkall'
           DataSource = dsMainCDS
@@ -461,7 +461,7 @@ object F417_DyeMain: TFrmBase
         object edtORDERDATE: TwwDBDateTimePicker
           Left = 791
           Top = 223
-          Width = 250
+          Width = 263
           Height = 26
           CalendarAttributes.Font.Charset = DEFAULT_CHARSET
           CalendarAttributes.Font.Color = clWindowText
@@ -479,7 +479,7 @@ object F417_DyeMain: TFrmBase
         object edtDROPW: TDBEdit
           Left = 5
           Top = 273
-          Width = 250
+          Width = 263
           Height = 26
           DataField = 'DROPW'
           DataSource = dsMainCDS
@@ -488,7 +488,7 @@ object F417_DyeMain: TFrmBase
         object edtDELQTY: TDBEdit
           Left = 267
           Top = 273
-          Width = 250
+          Width = 263
           Height = 26
           DataField = 'DELQTY'
           DataSource = dsMainCDS
@@ -497,7 +497,7 @@ object F417_DyeMain: TFrmBase
         object edtremark: TDBMemo
           Left = 529
           Top = 273
-          Width = 250
+          Width = 263
           Height = 100
           DataField = 'remark'
           DataSource = dsMainCDS
