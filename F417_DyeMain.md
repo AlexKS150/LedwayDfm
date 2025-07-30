@@ -28,6 +28,8 @@
 | Width | 65 |
 | Height | 18 |
 | Caption | 'F_EditDye' |
+| Font.Style | [fsBold] |
+| ParentFont | False |
 | Visible | False |
 
 ## Splitter1 (TSplitter)
@@ -77,6 +79,8 @@
 | Width | 60 |
 | Height | 18 |
 | Caption | 染整單號 |
+| Font.Style | [fsBold] |
+| ParentFont | False |
 
 ##### lbFACTNO (TLabel)
 | Property | Value |
@@ -86,6 +90,8 @@
 | Width | 60 |
 | Height | 18 |
 | Caption | 廠商名稱 |
+| Font.Style | [fsBold] |
+| ParentFont | False |
 
 ##### lbORDERNO (TLabel)
 | Property | Value |
@@ -95,6 +101,8 @@
 | Width | 60 |
 | Height | 18 |
 | Caption | 訂單號碼 |
+| Font.Style | [fsBold] |
+| ParentFont | False |
 
 ##### lbCUSTORDER (TLabel)
 | Property | Value |
@@ -104,6 +112,8 @@
 | Width | 60 |
 | Height | 18 |
 | Caption | 客戶單號 |
+| Font.Style | [fsBold] |
+| ParentFont | False |
 
 ##### lbLBTYPE (TLabel)
 | Property | Value |
@@ -113,6 +123,8 @@
 | Width | 60 |
 | Height | 18 |
 | Caption | 染整類別 |
+| Font.Style | [fsBold] |
+| ParentFont | False |
 
 ##### lbPRODNO (TLabel)
 | Property | Value |
@@ -122,6 +134,8 @@
 | Width | 60 |
 | Height | 18 |
 | Caption | 品名編號 |
+| Font.Style | [fsBold] |
+| ParentFont | False |
 
 ##### lbPRODNAME (TLabel)
 | Property | Value |
@@ -131,6 +145,8 @@
 | Width | 60 |
 | Height | 18 |
 | Caption | 布種品名 |
+| Font.Style | [fsBold] |
+| ParentFont | False |
 
 ##### lbUPWIDTH (TLabel)
 | Property | Value |
@@ -140,6 +156,8 @@
 | Width | 60 |
 | Height | 18 |
 | Caption | 針內幅寬 |
+| Font.Style | [fsBold] |
+| ParentFont | False |
 
 ##### lbDNWIDTH (TLabel)
 | Property | Value |
@@ -149,6 +167,8 @@
 | Width | 45 |
 | Height | 18 |
 | Caption | 全幅寬 |
+| Font.Style | [fsBold] |
+| ParentFont | False |
 
 ##### lbDNWEIGHT (TLabel)
 | Property | Value |
@@ -158,6 +178,8 @@
 | Width | 30 |
 | Height | 18 |
 | Caption | 布重 |
+| Font.Style | [fsBold] |
+| ParentFont | False |
 
 ##### lbUPWEIGHT (TLabel)
 | Property | Value |
@@ -167,6 +189,8 @@
 | Width | 60 |
 | Height | 18 |
 | Caption | 布重上限 |
+| Font.Style | [fsBold] |
+| ParentFont | False |
 
 ##### lbWEIGHTUNIT (TLabel)
 | Property | Value |
@@ -176,6 +200,8 @@
 | Width | 60 |
 | Height | 18 |
 | Caption | 布重單位 |
+| Font.Style | [fsBold] |
+| ParentFont | False |
 
 ##### lbRinse (TLabel)
 | Property | Value |
@@ -185,6 +211,8 @@
 | Width | 30 |
 | Height | 18 |
 | Caption | 上漿 |
+| Font.Style | [fsBold] |
+| ParentFont | False |
 
 ##### lbTrim (TLabel)
 | Property | Value |
@@ -194,6 +222,8 @@
 | Width | 30 |
 | Height | 18 |
 | Caption | 切邊 |
+| Font.Style | [fsBold] |
+| ParentFont | False |
 
 ##### lbLOSE (TLabel)
 | Property | Value |
@@ -203,6 +233,8 @@
 | Width | 30 |
 | Height | 18 |
 | Caption | 損耗 |
+| Font.Style | [fsBold] |
+| ParentFont | False |
 
 ##### lbMRPNO (TLabel)
 | Property | Value |
@@ -212,6 +244,8 @@
 | Width | 60 |
 | Height | 18 |
 | Caption | 生產管制 |
+| Font.Style | [fsBold] |
+| ParentFont | False |
 
 ##### lbDELDATE (TLabel)
 | Property | Value |
@@ -221,6 +255,8 @@
 | Width | 30 |
 | Height | 18 |
 | Caption | 交期 |
+| Font.Style | [fsBold] |
+| ParentFont | False |
 
 ##### lblotall (TLabel)
 | Property | Value |
@@ -230,6 +266,8 @@
 | Width | 45 |
 | Height | 18 |
 | Caption | 缸差表 |
+| Font.Style | [fsBold] |
+| ParentFont | False |
 
 ##### lbcheckall (TLabel)
 | Property | Value |
@@ -239,6 +277,8 @@
 | Width | 45 |
 | Height | 18 |
 | Caption | 全檢表 |
+| Font.Style | [fsBold] |
+| ParentFont | False |
 
 ##### lbORDERDATE (TLabel)
 | Property | Value |
@@ -248,6 +288,8 @@
 | Width | 60 |
 | Height | 18 |
 | Caption | 下單日期 |
+| Font.Style | [fsBold] |
+| ParentFont | False |
 
 ##### lbDROPW (TLabel)
 | Property | Value |
@@ -257,6 +299,8 @@
 | Width | 60 |
 | Height | 18 |
 | Caption | 投胚數量 |
+| Font.Style | [fsBold] |
+| ParentFont | False |
 
 ##### lbDELQTY (TLabel)
 | Property | Value |
@@ -266,6 +310,8 @@
 | Width | 45 |
 | Height | 18 |
 | Caption | 出貨量 |
+| Font.Style | [fsBold] |
+| ParentFont | False |
 
 ##### lbremark (TLabel)
 | Property | Value |
@@ -275,6 +321,8 @@
 | Width | 30 |
 | Height | 18 |
 | Caption | 備註 |
+| Font.Style | [fsBold] |
+| ParentFont | False |
 
 ##### edtSEQNO (TDBEdit)
 | Property | Value |

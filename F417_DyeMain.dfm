@@ -32,6 +32,8 @@ object F417_DyeMain: TFrmBase
     Width = 65
     Height = 18
     Caption = 'F_EditDye'
+    Font.Style = [fsBold]
+    ParentFont = False
     Visible = False
   end
   object pnlTop: TPanel
@@ -58,6 +60,8 @@ object F417_DyeMain: TFrmBase
           Width = 60
           Height = 18
           Caption = #26579#25972#21934#34399
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbFACTNO: TLabel
           Left = 271
@@ -65,6 +69,8 @@ object F417_DyeMain: TFrmBase
           Width = 60
           Height = 18
           Caption = #24288#21830#21517#31281
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbORDERNO: TLabel
           Left = 533
@@ -72,6 +78,8 @@ object F417_DyeMain: TFrmBase
           Width = 60
           Height = 18
           Caption = #35330#21934#34399#30908
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbCUSTORDER: TLabel
           Left = 795
@@ -79,6 +87,8 @@ object F417_DyeMain: TFrmBase
           Width = 60
           Height = 18
           Caption = #23458#25142#21934#34399
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbLBTYPE: TLabel
           Left = 9
@@ -86,6 +96,8 @@ object F417_DyeMain: TFrmBase
           Width = 60
           Height = 18
           Caption = #26579#25972#39006#21029
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbPRODNO: TLabel
           Left = 271
@@ -93,6 +105,8 @@ object F417_DyeMain: TFrmBase
           Width = 60
           Height = 18
           Caption = #21697#21517#32232#34399
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbPRODNAME: TLabel
           Left = 533
@@ -100,6 +114,8 @@ object F417_DyeMain: TFrmBase
           Width = 60
           Height = 18
           Caption = #24067#31278#21697#21517
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbUPWIDTH: TLabel
           Left = 795
@@ -107,6 +123,8 @@ object F417_DyeMain: TFrmBase
           Width = 60
           Height = 18
           Caption = #37341#20839#24133#23532
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbDNWIDTH: TLabel
           Left = 9
@@ -114,6 +132,8 @@ object F417_DyeMain: TFrmBase
           Width = 45
           Height = 18
           Caption = #20840#24133#23532
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbDNWEIGHT: TLabel
           Left = 271
@@ -121,6 +141,8 @@ object F417_DyeMain: TFrmBase
           Width = 30
           Height = 18
           Caption = #24067#37325
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbUPWEIGHT: TLabel
           Left = 533
@@ -128,6 +150,8 @@ object F417_DyeMain: TFrmBase
           Width = 60
           Height = 18
           Caption = #24067#37325#19978#38480
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbWEIGHTUNIT: TLabel
           Left = 795
@@ -135,6 +159,8 @@ object F417_DyeMain: TFrmBase
           Width = 60
           Height = 18
           Caption = #24067#37325#21934#20301
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbRinse: TLabel
           Left = 9
@@ -142,6 +168,8 @@ object F417_DyeMain: TFrmBase
           Width = 30
           Height = 18
           Caption = #19978#28479
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbTrim: TLabel
           Left = 271
@@ -149,6 +177,8 @@ object F417_DyeMain: TFrmBase
           Width = 30
           Height = 18
           Caption = #20999#37002
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbLOSE: TLabel
           Left = 533
@@ -156,6 +186,8 @@ object F417_DyeMain: TFrmBase
           Width = 30
           Height = 18
           Caption = #25613#32791
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbMRPNO: TLabel
           Left = 795
@@ -163,6 +195,8 @@ object F417_DyeMain: TFrmBase
           Width = 60
           Height = 18
           Caption = #29983#29986#31649#21046
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbDELDATE: TLabel
           Left = 9
@@ -170,6 +204,8 @@ object F417_DyeMain: TFrmBase
           Width = 30
           Height = 18
           Caption = #20132#26399
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lblotall: TLabel
           Left = 271
@@ -177,6 +213,8 @@ object F417_DyeMain: TFrmBase
           Width = 45
           Height = 18
           Caption = #32568#24046#34920
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbcheckall: TLabel
           Left = 533
@@ -184,6 +222,8 @@ object F417_DyeMain: TFrmBase
           Width = 45
           Height = 18
           Caption = #20840#27298#34920
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbORDERDATE: TLabel
           Left = 795
@@ -191,6 +231,8 @@ object F417_DyeMain: TFrmBase
           Width = 60
           Height = 18
           Caption = #19979#21934#26085#26399
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbDROPW: TLabel
           Left = 9
@@ -198,6 +240,8 @@ object F417_DyeMain: TFrmBase
           Width = 60
           Height = 18
           Caption = #25237#32986#25976#37327
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbDELQTY: TLabel
           Left = 271
@@ -205,6 +249,8 @@ object F417_DyeMain: TFrmBase
           Width = 45
           Height = 18
           Caption = #20986#36008#37327
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbremark: TLabel
           Left = 533
@@ -212,6 +258,8 @@ object F417_DyeMain: TFrmBase
           Width = 30
           Height = 18
           Caption = #20633#35387
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object edtSEQNO: TDBEdit
           Left = 5
