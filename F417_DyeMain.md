@@ -67,7 +67,7 @@
 #### tsMain0 (TTabSheet)
 | Property | Value |
 | --- | --- |
-| Caption | #26579#25972#20027#27284 |
+| Caption | 染整主檔 |
 
 ##### lbSEQNO (TLabel)
 | Property | Value |
@@ -76,7 +76,7 @@
 | Top | 5 |
 | Width | 60 |
 | Height | 18 |
-| Caption | #26579#25972#21934#34399 |
+| Caption | 染整單號 |
 
 ##### lbFACTNO (TLabel)
 | Property | Value |
@@ -85,7 +85,7 @@
 | Top | 5 |
 | Width | 60 |
 | Height | 18 |
-| Caption | #24288#21830#21517#31281 |
+| Caption | 廠商名稱 |
 
 ##### lbORDERNO (TLabel)
 | Property | Value |
@@ -94,7 +94,7 @@
 | Top | 5 |
 | Width | 60 |
 | Height | 18 |
-| Caption | #35330#21934#34399#30908 |
+| Caption | 訂單號碼 |
 
 ##### lbCUSTORDER (TLabel)
 | Property | Value |
@@ -103,7 +103,7 @@
 | Top | 5 |
 | Width | 60 |
 | Height | 18 |
-| Caption | #23458#25142#21934#34399 |
+| Caption | 客戶單號 |
 
 ##### lbLBTYPE (TLabel)
 | Property | Value |
@@ -112,7 +112,7 @@
 | Top | 55 |
 | Width | 60 |
 | Height | 18 |
-| Caption | #26579#25972#39006#21029 |
+| Caption | 染整類別 |
 
 ##### lbPRODNO (TLabel)
 | Property | Value |
@@ -121,7 +121,7 @@
 | Top | 55 |
 | Width | 60 |
 | Height | 18 |
-| Caption | #21697#21517#32232#34399 |
+| Caption | 品名編號 |
 
 ##### lbPRODNAME (TLabel)
 | Property | Value |
@@ -130,7 +130,7 @@
 | Top | 55 |
 | Width | 60 |
 | Height | 18 |
-| Caption | #24067#31278#21697#21517 |
+| Caption | 布種品名 |
 
 ##### lbUPWIDTH (TLabel)
 | Property | Value |
@@ -139,7 +139,7 @@
 | Top | 55 |
 | Width | 60 |
 | Height | 18 |
-| Caption | #37341#20839#24133#23532 |
+| Caption | 針內幅寬 |
 
 ##### lbDNWIDTH (TLabel)
 | Property | Value |
@@ -148,7 +148,7 @@
 | Top | 105 |
 | Width | 45 |
 | Height | 18 |
-| Caption | #20840#24133#23532 |
+| Caption | 全幅寬 |
 
 ##### lbDNWEIGHT (TLabel)
 | Property | Value |
@@ -157,7 +157,7 @@
 | Top | 105 |
 | Width | 30 |
 | Height | 18 |
-| Caption | #24067#37325 |
+| Caption | 布重 |
 
 ##### lbUPWEIGHT (TLabel)
 | Property | Value |
@@ -166,7 +166,7 @@
 | Top | 105 |
 | Width | 60 |
 | Height | 18 |
-| Caption | #24067#37325#19978#38480 |
+| Caption | 布重上限 |
 
 ##### lbWEIGHTUNIT (TLabel)
 | Property | Value |
@@ -175,7 +175,7 @@
 | Top | 105 |
 | Width | 60 |
 | Height | 18 |
-| Caption | #24067#37325#21934#20301 |
+| Caption | 布重單位 |
 
 ##### lbRinse (TLabel)
 | Property | Value |
@@ -184,7 +184,7 @@
 | Top | 155 |
 | Width | 30 |
 | Height | 18 |
-| Caption | #19978#28479 |
+| Caption | 上漿 |
 
 ##### lbTrim (TLabel)
 | Property | Value |
@@ -193,7 +193,7 @@
 | Top | 155 |
 | Width | 30 |
 | Height | 18 |
-| Caption | #20999#37002 |
+| Caption | 切邊 |
 
 ##### lbLOSE (TLabel)
 | Property | Value |
@@ -202,7 +202,7 @@
 | Top | 155 |
 | Width | 30 |
 | Height | 18 |
-| Caption | #25613#32791 |
+| Caption | 損耗 |
 
 ##### lbMRPNO (TLabel)
 | Property | Value |
@@ -211,7 +211,7 @@
 | Top | 155 |
 | Width | 60 |
 | Height | 18 |
-| Caption | #29983#29986#31649#21046 |
+| Caption | 生產管制 |
 
 ##### lbDELDATE (TLabel)
 | Property | Value |
@@ -220,7 +220,7 @@
 | Top | 205 |
 | Width | 30 |
 | Height | 18 |
-| Caption | #20132#26399 |
+| Caption | 交期 |
 
 ##### lblotall (TLabel)
 | Property | Value |
@@ -229,7 +229,7 @@
 | Top | 205 |
 | Width | 45 |
 | Height | 18 |
-| Caption | #32568#24046#34920 |
+| Caption | 缸差表 |
 
 ##### lbcheckall (TLabel)
 | Property | Value |
@@ -238,7 +238,7 @@
 | Top | 205 |
 | Width | 45 |
 | Height | 18 |
-| Caption | #20840#27298#34920 |
+| Caption | 全檢表 |
 
 ##### lbORDERDATE (TLabel)
 | Property | Value |
@@ -247,7 +247,7 @@
 | Top | 205 |
 | Width | 60 |
 | Height | 18 |
-| Caption | #19979#21934#26085#26399 |
+| Caption | 下單日期 |
 
 ##### lbDROPW (TLabel)
 | Property | Value |
@@ -256,7 +256,7 @@
 | Top | 255 |
 | Width | 60 |
 | Height | 18 |
-| Caption | #25237#32986#25976#37327 |
+| Caption | 投胚數量 |
 
 ##### lbDELQTY (TLabel)
 | Property | Value |
@@ -265,7 +265,7 @@
 | Top | 255 |
 | Width | 45 |
 | Height | 18 |
-| Caption | #20986#36008#37327 |
+| Caption | 出貨量 |
 
 ##### lbremark (TLabel)
 | Property | Value |
@@ -274,7 +274,7 @@
 | Top | 255 |
 | Width | 30 |
 | Height | 18 |
-| Caption | #20633#35387 |
+| Caption | 備註 |
 
 ##### edtSEQNO (TDBEdit)
 | Property | Value |
@@ -436,7 +436,7 @@
 | DataSource | dsMainCDS |
 | DropDownCount | 8 |
 | ItemHeight | 0 |
-| Items.Strings | ( #30908#37325'[G/YD]'#9'0' #31859#37325'[G/M]'#9'1' #20811#37325'[G/(M*M)]'#9'2') |
+| Items.Strings | ( 碼重'[G/YD]'	'0' 米重'[G/M]'	'1' 克重'[G/(M*M)]'	'2') |
 | Sorted | False |
 | TabOrder | 11 |
 | UnboundDataType | wwDefault |
@@ -456,7 +456,7 @@
 | DataSource | dsMainCDS |
 | DropDownCount | 8 |
 | ItemHeight | 0 |
-| Items.Strings | ( 'Y'#9'Y' 'N'#9'N') |
+| Items.Strings | ( 'Y'	'Y' 'N'	'N') |
 | Sorted | False |
 | TabOrder | 12 |
 | UnboundDataType | wwDefault |
@@ -476,7 +476,7 @@
 | DataSource | dsMainCDS |
 | DropDownCount | 8 |
 | ItemHeight | 0 |
-| Items.Strings | ( 'Y'#9'Y' 'N'#9'N') |
+| Items.Strings | ( 'Y'	'Y' 'N'	'N') |
 | Sorted | False |
 | TabOrder | 13 |
 | UnboundDataType | wwDefault |
@@ -623,7 +623,7 @@
 ### tbdyecolor (TTabSheet)
 | Property | Value |
 | --- | --- |
-| Caption | #38991#33394 |
+| Caption | 顏色 |
 | ExplicitLeft | 0 |
 | ExplicitTop | 0 |
 | ExplicitWidth | 0 |
@@ -637,7 +637,7 @@
 | Width | 1020 |
 | Height | 200 |
 | ControlType.Strings | ( 'COLORTYPE;CustomEdit;griddyecolorCOLORTYPE' 'OrderUnit;CustomEdit;griddyecolorOrderUnit') |
-| Selected.Strings | ( 'STUFFNO'#9'14'#9#31293#26680#21934#34399#9'F' 'COLOR'#9'15'#9#38991#33394#9'F' 'COLORENG'#9'15'#9#33521#25991#33394#21517#9'F' 'COLORCARD'#9'20'#9#33394#34399#9'F' 'COLORTYPE'#9'15'#9#38991#33394#39006#22411#9'F' 'UNITP'#9'9'#9#21934#20729#9'F' 'OrderUnit'#9'9'#9#35330#36092#21934#20301#9'F' 'ORDERW'#9'9'#9#35330#21934#25976#37327#9'F' 'BNOW'#9'9'#9#38656#32986#37327#9'T' 'DROPW'#9'9'#9#25237#32986#25976#37327#9'F' 'COMMENT'#9'9'#9#33394#34399#35413#35486#9'F' 'MEMO'#9'40'#9'Memo'#35387#35352#9'F') |
+| Selected.Strings | ( 'STUFFNO'	'14'	稽核單號	'F' 'COLOR'	'15'	顏色	'F' 'COLORENG'	'15'	英文色名	'F' 'COLORCARD'	'20'	色號	'F' 'COLORTYPE'	'15'	顏色類型	'F' 'UNITP'	'9'	單價	'F' 'OrderUnit'	'9'	訂購單位	'F' 'ORDERW'	'9'	訂單數量	'F' 'BNOW'	'9'	需胚量	'T' 'DROPW'	'9'	投胚數量	'F' 'COMMENT'	'9'	色號評語	'F' 'MEMO'	'40'	'Memo'註記	'F') |
 | IniAttributes.Delimiter | ';;' |
 | TitleColor | clBtnFace |
 | FixedCols | 0 |
@@ -670,7 +670,7 @@
 ##### tbDyeColorDel (TTabSheet)
 | Property | Value |
 | --- | --- |
-| Caption | #20837#24235#21934 |
+| Caption | 入庫單 |
 | ExplicitLeft | 0 |
 | ExplicitTop | 0 |
 | ExplicitWidth | 0 |
@@ -684,7 +684,7 @@
 | Width | 1012 |
 | Height | 246 |
 | ControlType.Strings | ( 'DELDATE;CustomEdit;gridDyeColorDelDELDATE' 'stock_date;CustomEdit;gridDyeColorDelstock_date' 'DYETYPE;CustomEdit;gridDyeColorDelDYETYPE' 'TOWHO;CustomEdit;gridDyeColorDelTOWHO' 'RUnit;CustomEdit;gridDyeColorDelRUnit' 'PUNIT;CustomEdit;gridDyeColorDelPUNIT' 'IsDirectMat;CustomEdit;gridDyeColorDelIsDirectMat' 'unit;CustomEdit;gridDyeColorDelunit' 'LastDye;CustomEdit;gridDyeColorDelLastDye' 'IsAR;CustomEdit;gridDyeColorDelIsAR' 'IsAP;CustomEdit;gridDyeColorDelIsAP' 'IsLotFee_AR;CustomEdit;gridDyeColorDelIsLotFee_AR' 'IsLotFee_AP;CustomEdit;gridDyeColorDelIsLotFee_AP' 'IsInvoiceNo;CustomEdit;gridDyeColorDelIsInvoiceNo') |
-| Selected.Strings | ( 'DELNO'#9'16'#9#20837#24235#21934#34399#9'F' 'FACTDELNO'#9'9'#9#24037#21345#34399#30908#9'F' 'DELDATE'#9'9'#9#20132#36008#26085#26399#9'F' 'stock_date'#9'16'#9#30064#21205#26085#26399#9'F' 'DYETYPE'#9'9'#9#20837#24235#22411#24907#9'F' 'LOTNO'#9'9'#9#32568#34399#9'F' 'DROPW'#9'9'#9#25237#32986#25976#37327#9'F' 'DELPCS'#9'9'#9#20132#36008#21305#25976#9'F' 'DELW'#9'9'#9#20132#36008#25976#37327#9'F' 'TOWHO'#9'16'#9#22996#22806#20132#36008#22320#40670#9'F' 'TOWHO_abbr'#9'12'#9'Abbr'#9'T' 'AR_QTY'#9'9'#9#25033#25910#25976#37327#9'F' 'RUnit'#9'9'#9#25033#25910#21934#20301#9'F' 'AP_QTY'#9'9'#9#25033#20184#25976#37327#9'F' 'PUNIT'#9'9'#9#35336#20729#21934#20301#9'F' 'UNITP'#9'9'#9#21934#20729#9'F' 'IsDirectMat'#9'9'#9#25187#24235#23384#39006#21029#9'F' 'unit'#9'9'#9#21934#20301#9'F' 'FOC'#9'9'#9'FOC'#9'F' 'LastDye'#9'9'#9#26159#21542#26368#24460#19968#38364#9'F' 'IsAR'#9'9'#9#26159#21542#25033#25910#9'F' 'IsAP'#9'9'#9#26159#21542#25033#20184#9'F' 'IsLotFee_AR'#9'9'#9#21253#32568#36027#36681#25033#25910#9'F' 'IsLotFee_AP'#9'9'#9#21253#32568#36027#36681#25033#20184#9'F' 'IsInvoiceNo'#9'9'#9#26159#21542#36681'Invoice'#9'F' 'InvoiceNo'#9'9'#9#30332#31080#34399#30908#9'F' 'ESSeqNo'#9'13'#9#25033#25910#21934#34399#9'F' 'EFSeqNo'#9'13'#9#25033#20184#21934#34399#9'F' 'ReturnToDelNo'#9'9'#9#36864#22238#21934#34399#9'F' 'remark'#9'30'#9#20633#35387#9'F') |
+| Selected.Strings | ( 'DELNO'	'16'	入庫單號	'F' 'FACTDELNO'	'9'	工卡號碼	'F' 'DELDATE'	'9'	交貨日期	'F' 'stock_date'	'16'	異動日期	'F' 'DYETYPE'	'9'	入庫型態	'F' 'LOTNO'	'9'	缸號	'F' 'DROPW'	'9'	投胚數量	'F' 'DELPCS'	'9'	交貨匹數	'F' 'DELW'	'9'	交貨數量	'F' 'TOWHO'	'16'	委外交貨地點	'F' 'TOWHO_abbr'	'12'	'Abbr'	'T' 'AR_QTY'	'9'	應收數量	'F' 'RUnit'	'9'	應收單位	'F' 'AP_QTY'	'9'	應付數量	'F' 'PUNIT'	'9'	計價單位	'F' 'UNITP'	'9'	單價	'F' 'IsDirectMat'	'9'	扣庫存類別	'F' 'unit'	'9'	單位	'F' 'FOC'	'9'	'FOC'	'F' 'LastDye'	'9'	是否最後一關	'F' 'IsAR'	'9'	是否應收	'F' 'IsAP'	'9'	是否應付	'F' 'IsLotFee_AR'	'9'	包缸費轉應收	'F' 'IsLotFee_AP'	'9'	包缸費轉應付	'F' 'IsInvoiceNo'	'9'	是否轉'Invoice'	'F' 'InvoiceNo'	'9'	發票號碼	'F' 'ESSeqNo'	'13'	應收單號	'F' 'EFSeqNo'	'13'	應付單號	'F' 'ReturnToDelNo'	'9'	退回單號	'F' 'remark'	'30'	備註	'F') |
 | IniAttributes.Delimiter | ';;' |
 | TitleColor | clBtnFace |
 | FixedCols | 0 |
@@ -719,7 +719,7 @@
 ####### tbDYEPCS (TTabSheet)
 | Property | Value |
 | --- | --- |
-| Caption | #36880#21305#26126#32048 |
+| Caption | 逐匹明細 |
 | ExplicitLeft | 0 |
 | ExplicitTop | 0 |
 | ExplicitWidth | 0 |
@@ -732,7 +732,7 @@
 | Top | 0 |
 | Width | 1004 |
 | Height | 703 |
-| Selected.Strings | ( 'PCNO2'#9'16'#9#26781#30908#9'F' 'SERIALNO'#9'9'#9#21305#34399#9'F' 'KG'#9'9'#9#37325#37327#9'F' 'YARD'#9'9'#9#30908#25976#9'F' 'RATE'#9'9'#9#31561#32026#9'F' 'Foc'#9'9'#9'FOC'#9'F' 'STOWAGE'#9'16'#9#24288#20839#20786#20301#9'F' 'STOCKSUBNO'#9'16'#9#24235#23384#32232#34399#9'F') |
+| Selected.Strings | ( 'PCNO2'	'16'	條碼	'F' 'SERIALNO'	'9'	匹號	'F' 'KG'	'9'	重量	'F' 'YARD'	'9'	碼數	'F' 'RATE'	'9'	等級	'F' 'Foc'	'9'	'FOC'	'F' 'STOWAGE'	'16'	廠內儲位	'F' 'STOCKSUBNO'	'16'	庫存編號	'F') |
 | IniAttributes.Delimiter | ';;' |
 | TitleColor | clBtnFace |
 | FixedCols | 0 |
@@ -809,7 +809,7 @@
 | DataSource | dsDyeColorDel |
 | DropDownCount | 8 |
 | ItemHeight | 0 |
-| Items.Strings | ( #25176#26579#20837#19979#28216#21152#24037#24288#21830#9'3' #25176#26579#25104#21697#26368#32066#20837#24235#9'0' #24235#23384#20837#24235#9'4' #20986#36008#36864#22238#9'5' #25176#26579#30064#24120#20837#24235#9'7' #20986#19979#28216#32102#36028#21512#24288#9'8' #37325#20462#9'9' #36864#20462#9'10' #35036#24067#9'11') |
+| Items.Strings | ( 托染入下游加工廠商	'3' 托染成品最終入庫	'0' 庫存入庫	'4' 出貨退回	'5' 托染異常入庫	'7' 出下游給貼合廠	'8' 重修	'9' 退修	'10' 補布	'11') |
 | ItemIndex | 1 |
 | ParentCtl3D | False |
 | Sorted | False |
@@ -855,7 +855,7 @@
 | DataSource | dsDyeColorDel |
 | DropDownCount | 8 |
 | ItemHeight | 0 |
-| Items.Strings | ( 'KG'#9'0' 'LB'#9'1' 'YD'#9'2' 'M'#9'3' 'PC'#9'4' 'DZ'#9'5' 'Set'#9'6' 'Inch'#9'7' 'Cm'#9'8' 'Pick'#9'9' '%'#9'10') |
+| Items.Strings | ( 'KG'	'0' 'LB'	'1' 'YD'	'2' 'M'	'3' 'PC'	'4' 'DZ'	'5' 'Set'	'6' 'Inch'	'7' 'Cm'	'8' 'Pick'	'9' '%'	'10') |
 | ParentCtl3D | False |
 | Sorted | False |
 | TabOrder | 6 |
@@ -879,7 +879,7 @@
 | DataSource | dsDyeColorDel |
 | DropDownCount | 8 |
 | ItemHeight | 0 |
-| Items.Strings | ( 'KG'#9'0' 'LB'#9'1' 'YD'#9'2' 'M'#9'3') |
+| Items.Strings | ( 'KG'	'0' 'LB'	'1' 'YD'	'2' 'M'	'3') |
 | ParentCtl3D | False |
 | Sorted | False |
 | TabOrder | 7 |
@@ -903,7 +903,7 @@
 | DataSource | dsDyeColorDel |
 | DropDownCount | 8 |
 | ItemHeight | 0 |
-| Items.Strings | ( #21407#26009#9'0' #21322#25104#21697#9'1' #25104#21697#9'2') |
+| Items.Strings | ( 原料	'0' 半成品	'1' 成品	'2') |
 | ParentCtl3D | False |
 | Sorted | False |
 | TabOrder | 8 |
@@ -927,7 +927,7 @@
 | DataSource | dsDyeColorDel |
 | DropDownCount | 8 |
 | ItemHeight | 0 |
-| Items.Strings | ( 'KG'#9'0' 'LB'#9'1' 'YD'#9'2' 'M'#9'3' 'PC'#9'4' 'DZ'#9'5' 'Set'#9'6') |
+| Items.Strings | ( 'KG'	'0' 'LB'	'1' 'YD'	'2' 'M'	'3' 'PC'	'4' 'DZ'	'5' 'Set'	'6') |
 | ParentCtl3D | False |
 | Sorted | False |
 | TabOrder | 9 |
@@ -951,7 +951,7 @@
 | DataSource | dsDyeColorDel |
 | DropDownCount | 8 |
 | ItemHeight | 0 |
-| Items.Strings | ( 'Y'#9'Y' 'N'#9'N') |
+| Items.Strings | ( 'Y'	'Y' 'N'	'N') |
 | ParentCtl3D | False |
 | Sorted | False |
 | TabOrder | 10 |
@@ -975,7 +975,7 @@
 | DataSource | dsDyeColorDel |
 | DropDownCount | 8 |
 | ItemHeight | 0 |
-| Items.Strings | ( 'Y'#9'Y' 'N'#9'N') |
+| Items.Strings | ( 'Y'	'Y' 'N'	'N') |
 | ParentCtl3D | False |
 | Sorted | False |
 | TabOrder | 11 |
@@ -999,7 +999,7 @@
 | DataSource | dsDyeColorDel |
 | DropDownCount | 8 |
 | ItemHeight | 0 |
-| Items.Strings | ( 'Y'#9'Y' 'N'#9'N') |
+| Items.Strings | ( 'Y'	'Y' 'N'	'N') |
 | ParentCtl3D | False |
 | Sorted | False |
 | TabOrder | 12 |
@@ -1023,7 +1023,7 @@
 | DataSource | dsDyeColorDel |
 | DropDownCount | 8 |
 | ItemHeight | 0 |
-| Items.Strings | ( 'Y'#9'1' 'N'#9'0') |
+| Items.Strings | ( 'Y'	'1' 'N'	'0') |
 | ParentCtl3D | False |
 | Sorted | False |
 | TabOrder | 13 |
@@ -1047,7 +1047,7 @@
 | DataSource | dsDyeColorDel |
 | DropDownCount | 8 |
 | ItemHeight | 0 |
-| Items.Strings | ( 'Y'#9'1' 'N'#9'0') |
+| Items.Strings | ( 'Y'	'1' 'N'	'0') |
 | ParentCtl3D | False |
 | Sorted | False |
 | TabOrder | 14 |
@@ -1071,7 +1071,7 @@
 | DataSource | dsDyeColorDel |
 | DropDownCount | 8 |
 | ItemHeight | 0 |
-| Items.Strings | ( 'Y'#9'Y' 'N'#9'N') |
+| Items.Strings | ( 'Y'	'Y' 'N'	'N') |
 | ParentCtl3D | False |
 | Sorted | False |
 | TabOrder | 15 |
@@ -1081,7 +1081,7 @@
 ##### tbJOBCARD (TTabSheet)
 | Property | Value |
 | --- | --- |
-| Caption | #24037#31243#21345 |
+| Caption | 工程卡 |
 
 ###### gridJOBCARD (TwwDBGrid)
 | Property | Value |
@@ -1091,7 +1091,7 @@
 | Width | 1012 |
 | Height | 982 |
 | ControlType.Strings | ( 'STATIONCODE;CustomEdit;gridJOBCARDSTATIONCODE') |
-| Selected.Strings | ( 'JOBNO'#9'12'#9#24037#21345#34399#30908#9'F' 'LOTNO'#9'9'#9#32568#34399#9'F' 'LOTQ'#9'9'#9#25976#37327#9'F' 'LOTPN'#9'9'#9#30091#25976#9'F' 'SBQ'#9'9'#9#32986#24067#37325#37327#9'F' 'SBPN'#9'9'#9#32986#24067#30091#25976#9'F' 'PRODPN'#9'9'#9#25104#21697#21305#25976#9'F' 'PRODQTY'#9'9'#9#25104#21697#37327#9'F' 'STATIONCODE'#9'16'#9#21152#24037#31449#21029#20195#30908#9'F' 'STATIONCODE_abbr'#9'12'#9'Abbr'#9'T' 'Remark'#9'30'#9#20633#35387#9'F') |
+| Selected.Strings | ( 'JOBNO'	'12'	工卡號碼	'F' 'LOTNO'	'9'	缸號	'F' 'LOTQ'	'9'	數量	'F' 'LOTPN'	'9'	疋數	'F' 'SBQ'	'9'	胚布重量	'F' 'SBPN'	'9'	胚布疋數	'F' 'PRODPN'	'9'	成品匹數	'F' 'PRODQTY'	'9'	成品量	'F' 'STATIONCODE'	'16'	加工站別代碼	'F' 'STATIONCODE_abbr'	'12'	'Abbr'	'T' 'Remark'	'30'	備註	'F') |
 | IniAttributes.Delimiter | ';;' |
 | TitleColor | clBtnFace |
 | FixedCols | 0 |
@@ -1147,7 +1147,7 @@
 | DataSource | dsdyecolor |
 | DropDownCount | 8 |
 | ItemHeight | 0 |
-| Items.Strings | ( #30333#9'0' #28154#9'1' #20013#9'2' #28145#9'3' 'TD'#9'4' 'SD'#9'5') |
+| Items.Strings | ( 白	'0' 淺	'1' 中	'2' 深	'3' 'TD'	'4' 'SD'	'5') |
 | ParentCtl3D | False |
 | Sorted | False |
 | TabOrder | 2 |
@@ -1171,7 +1171,7 @@
 | DataSource | dsdyecolor |
 | DropDownCount | 8 |
 | ItemHeight | 0 |
-| Items.Strings | ( 'KG'#9'0' 'LB'#9'1' 'YD'#9'2' 'M'#9'3' 'PC'#9'4' 'DZ'#9'5' 'Set'#9'6' 'Inch'#9'7' 'Cm'#9'8' 'Pick'#9'9' '%'#9'10') |
+| Items.Strings | ( 'KG'	'0' 'LB'	'1' 'YD'	'2' 'M'	'3' 'PC'	'4' 'DZ'	'5' 'Set'	'6' 'Inch'	'7' 'Cm'	'8' 'Pick'	'9' '%'	'10') |
 | ParentCtl3D | False |
 | Sorted | False |
 | TabOrder | 3 |
@@ -1181,7 +1181,7 @@
 ### tbPUBNOTICE_PK (TTabSheet)
 | Property | Value |
 | --- | --- |
-| Caption | #21253#35037#26041#24335 |
+| Caption | 包裝方式 |
 
 #### gridPUBNOTICE_PK (TwwDBGrid)
 | Property | Value |
@@ -1191,7 +1191,7 @@
 | Width | 1020 |
 | Height | 1215 |
 | ControlType.Strings | ( 'CODE;CustomEdit;gridPUBNOTICE_PKCODE') |
-| Selected.Strings | ( 'CODE'#9'16'#9#20195#30908#9'F' 'SPEC'#9'60'#9#20839#23481#9'F') |
+| Selected.Strings | ( 'CODE'	'16'	代碼	'F' 'SPEC'	'60'	內容	'F') |
 | IniAttributes.Delimiter | ';;' |
 | TitleColor | clBtnFace |
 | FixedCols | 0 |
@@ -1233,7 +1233,7 @@
 ### tbPUBNOTICE_NE (TTabSheet)
 | Property | Value |
 | --- | --- |
-| Caption | #29282#24230#35201#27714 |
+| Caption | 牢度要求 |
 
 #### gridPUBNOTICE_NE (TwwDBGrid)
 | Property | Value |
@@ -1243,7 +1243,7 @@
 | Width | 1020 |
 | Height | 1215 |
 | ControlType.Strings | ( 'CODE;CustomEdit;gridPUBNOTICE_NECODE') |
-| Selected.Strings | ( 'CODE'#9'16'#9#20195#30908#9'F' 'SPEC'#9'60'#9#20839#23481#9'F') |
+| Selected.Strings | ( 'CODE'	'16'	代碼	'F' 'SPEC'	'60'	內容	'F') |
 | IniAttributes.Delimiter | ';;' |
 | TitleColor | clBtnFace |
 | FixedCols | 0 |
@@ -1285,7 +1285,7 @@
 ### tbPUBNOTICE_PS (TTabSheet)
 | Property | Value |
 | --- | --- |
-| Caption | #21152#24037#38917#30446 |
+| Caption | 加工項目 |
 
 #### gridPUBNOTICE_PS (TwwDBGrid)
 | Property | Value |
@@ -1295,7 +1295,7 @@
 | Width | 1020 |
 | Height | 1215 |
 | ControlType.Strings | ( 'CODE;CustomEdit;gridPUBNOTICE_PSCODE') |
-| Selected.Strings | ( 'CODE'#9'16'#9#20195#30908#9'F' 'CODE_abbr'#9'12'#9'Abbr'#9'T' 'SPEC'#9'60'#9#20839#23481#9'F') |
+| Selected.Strings | ( 'CODE'	'16'	代碼	'F' 'CODE_abbr'	'12'	'Abbr'	'T' 'SPEC'	'60'	內容	'F') |
 | IniAttributes.Delimiter | ';;' |
 | TitleColor | clBtnFace |
 | FixedCols | 0 |
@@ -1380,7 +1380,7 @@
 ### cdsMainAntiPiling_dry (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #24178#25705#25830#29282#24230 |
+| DisplayLabel | 干摩擦牢度 |
 | FieldName | 'AntiPiling_dry' |
 | Size | 30 |
 | TypeFlags | [] |
@@ -1388,7 +1388,7 @@
 ### cdsMainAntiPiling_wet (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #28629#25705#25830#29282#24230 |
+| DisplayLabel | 濕摩擦牢度 |
 | FieldName | 'AntiPiling_wet' |
 | Size | 30 |
 | TypeFlags | [] |
@@ -1418,7 +1418,7 @@
 ### cdsMainBMeterW (TBCDFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #32986#24067#31859#37325 |
+| DisplayLabel | 胚布米重 |
 | FieldName | 'BMeterW' |
 | Precision | 12 |
 | Size | 2 |
@@ -1427,7 +1427,7 @@
 ### cdsMainBPRODNAME (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #32986#24067#21517#31281 |
+| DisplayLabel | 胚布名稱 |
 | FieldName | 'BPRODNAME' |
 | Size | 80 |
 | TypeFlags | [] |
@@ -1445,7 +1445,7 @@
 ### cdsMainBPRODNO (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #32986#24067#20195#30908 |
+| DisplayLabel | 胚布代碼 |
 | FieldName | 'BPRODNO' |
 | Required | True |
 | Size | 38 |
@@ -1485,7 +1485,7 @@
 ### cdsMainBWidthKind (TIntegerFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #24133#23532#39006#21029 |
+| DisplayLabel | 幅寬類別 |
 | FieldName | 'BWidthKind' |
 | TypeFlags | [] |
 
@@ -1522,7 +1522,7 @@
 ### cdsMaincheckall (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #20840#27298#34920 |
+| DisplayLabel | 全檢表 |
 | FieldName | 'checkall' |
 | Size | 30 |
 | TypeFlags | [] |
@@ -1559,7 +1559,7 @@
 ### cdsMainColorMatching (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #23565#33394#36039#26009 |
+| DisplayLabel | 對色資料 |
 | FieldName | 'ColorMatching' |
 | Size | 400 |
 | TypeFlags | [] |
@@ -1607,13 +1607,13 @@
 ### cdsMainCREATEDATE (TDateTimeField)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #24314#27284#26085#26399 |
+| DisplayLabel | 建檔日期 |
 | FieldName | 'CREATEDATE' |
 
 ### cdsMainCREATENAME (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #30331#20837#24115#25142 |
+| DisplayLabel | 登入帳戶 |
 | FieldName | 'CREATENAME' |
 | TypeFlags | [] |
 
@@ -1642,7 +1642,7 @@
 ### cdsMainCUSTNO2 (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #21407#35330#21934#34399#30908 |
+| DisplayLabel | 原訂單號碼 |
 | FieldName | 'CUSTNO2' |
 | Size | 38 |
 | TypeFlags | [] |
@@ -1650,7 +1650,7 @@
 ### cdsMainCUSTORDER (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #23458#25142#21934#34399 |
+| DisplayLabel | 客戶單號 |
 | FieldName | 'CUSTORDER' |
 | Size | 60 |
 | TypeFlags | [] |
@@ -1679,7 +1679,7 @@
 ### cdsMainDeducteType (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #26159#21542#25187#32986#24067 |
+| DisplayLabel | 是否扣胚布 |
 | FieldName | 'DeducteType' |
 | Size | 12 |
 | TypeFlags | [] |
@@ -1695,7 +1695,7 @@
 ### cdsMainDeflection (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #25197#24230 |
+| DisplayLabel | 扭度 |
 | FieldName | 'Deflection' |
 | Size | 400 |
 | TypeFlags | [] |
@@ -1725,7 +1725,7 @@
 ### cdsMainDELDATE (TDateTimeField)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #20132#26399 |
+| DisplayLabel | 交期 |
 | FieldName | 'DELDATE' |
 | Required | True |
 
@@ -1738,7 +1738,7 @@
 ### cdsMainDELQTY (TBCDFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #20986#36008#37327 |
+| DisplayLabel | 出貨量 |
 | FieldName | 'DELQTY' |
 | Precision | 10 |
 | Size | 2 |
@@ -1755,7 +1755,7 @@
 ### cdsMainDEPART (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #37096#38272 |
+| DisplayLabel | 部門 |
 | FieldName | 'DEPART' |
 | Size | 24 |
 | TypeFlags | [] |
@@ -1817,7 +1817,7 @@
 ### cdsMainDNBWEIGHT (TBCDFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #24067#37325#19979#38480 |
+| DisplayLabel | 布重下限 |
 | FieldName | 'DNBWEIGHT' |
 | Precision | 5 |
 | Size | 1 |
@@ -1826,7 +1826,7 @@
 ### cdsMainDNBWIDTH (TBCDFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #24133#23532#19979#38480 |
+| DisplayLabel | 幅寬下限 |
 | FieldName | 'DNBWIDTH' |
 | Precision | 5 |
 | Size | 1 |
@@ -1843,7 +1843,7 @@
 ### cdsMainDNWEIGHT (TBCDFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #24067#37325 |
+| DisplayLabel | 布重 |
 | FieldName | 'DNWEIGHT' |
 | Precision | 6 |
 | Size | 2 |
@@ -1852,7 +1852,7 @@
 ### cdsMainDNWIDTH (TBCDFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #20840#24133#23532 |
+| DisplayLabel | 全幅寬 |
 | FieldName | 'DNWIDTH' |
 | Precision | 6 |
 | Size | 2 |
@@ -1861,7 +1861,7 @@
 ### cdsMainDOLLAR (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #24163#21029 |
+| DisplayLabel | 幣別 |
 | FieldName | 'DOLLAR' |
 | Required | True |
 | Size | 16 |
@@ -1888,7 +1888,7 @@
 ### cdsMainDROPW (TBCDFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #25237#32986#25976#37327 |
+| DisplayLabel | 投胚數量 |
 | FieldName | 'DROPW' |
 | Precision | 10 |
 | Size | 2 |
@@ -1922,7 +1922,7 @@
 ### cdsMainEXCHANGE (TFMTBCDFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #21295#29575 |
+| DisplayLabel | 匯率 |
 | FieldName | 'EXCHANGE' |
 | Required | True |
 | Precision | 28 |
@@ -1932,7 +1932,7 @@
 ### cdsMainExchangePayment (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #20132#26131#26781#20214 |
+| DisplayLabel | 交易條件 |
 | FieldName | 'ExchangePayment' |
 | Size | 30 |
 | TypeFlags | [] |
@@ -1950,7 +1950,7 @@
 ### cdsMainFactContno (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #24288#21830#32879#32097#20154 |
+| DisplayLabel | 廠商聯絡人 |
 | FieldName | 'FactContno' |
 | TypeFlags | [] |
 
@@ -1984,7 +1984,7 @@
 ### cdsMainFACTNO (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #24288#21830#21517#31281 |
+| DisplayLabel | 廠商名稱 |
 | FieldName | 'FACTNO' |
 | Required | True |
 | Size | 16 |
@@ -2013,7 +2013,7 @@
 ### cdsMainFastnessRequirement (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #29282#24230#35201#27714 |
+| DisplayLabel | 牢度要求 |
 | FieldName | 'FastnessRequirement' |
 | Size | 400 |
 | TypeFlags | [] |
@@ -2021,7 +2021,7 @@
 ### cdsMainFastness_light (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #26085#20809#29282#24230 |
+| DisplayLabel | 日光牢度 |
 | FieldName | 'Fastness_light' |
 | Size | 30 |
 | TypeFlags | [] |
@@ -2029,7 +2029,7 @@
 ### cdsMainFastness_washing (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #27700#27927#29282#24230 |
+| DisplayLabel | 水洗牢度 |
 | FieldName | 'Fastness_washing' |
 | Size | 30 |
 | TypeFlags | [] |
@@ -2102,7 +2102,7 @@
 ### cdsMainFINISHDATE (TDateTimeField)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #32080#26696#26085#26399 |
+| DisplayLabel | 結案日期 |
 | FieldName | 'FINISHDATE' |
 
 ### cdsMainfinish_pattern (TWideStringFieldWrapper)
@@ -2122,7 +2122,7 @@
 ### cdsMainFROMNO (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #25910#32986#32232#34399 |
+| DisplayLabel | 收胚編號 |
 | FieldName | 'FROMNO' |
 | Size | 12 |
 | TypeFlags | [] |
@@ -2137,7 +2137,7 @@
 ### cdsMainFROMWHO (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #21462#32986#22320#40670 |
+| DisplayLabel | 取胚地點 |
 | FieldName | 'FROMWHO' |
 | Size | 10 |
 | TypeFlags | [] |
@@ -2249,7 +2249,7 @@
 ### cdsMainIDITEM (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #39511#24067#38917#30446 |
+| DisplayLabel | 驗布項目 |
 | FieldName | 'IDITEM' |
 | Size | 16 |
 | TypeFlags | [] |
@@ -2267,7 +2267,7 @@
 ### cdsMainIsBottomColor (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #21512#20341#24213#24067#38991#33394 |
+| DisplayLabel | 合併底布顏色 |
 | FieldName | 'IsBottomColor' |
 | Size | 1 |
 | TypeFlags | [] |
@@ -2275,7 +2275,7 @@
 ### cdsMainISDEBIT (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #26159#21542#25033#25910 |
+| DisplayLabel | 是否應收 |
 | FieldName | 'ISDEBIT' |
 | Size | 1 |
 | TypeFlags | [] |
@@ -2283,7 +2283,7 @@
 ### cdsMainIsDirectMat (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #26159#21542#25187#21407#26009 |
+| DisplayLabel | 是否扣原料 |
 | FieldName | 'IsDirectMat' |
 | Size | 1 |
 | TypeFlags | [] |
@@ -2312,7 +2312,7 @@
 ### cdsMainIsOrderColor (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #36681#20986#35330#21934#38991#33394 |
+| DisplayLabel | 轉出訂單顏色 |
 | FieldName | 'IsOrderColor' |
 | Size | 1 |
 | TypeFlags | [] |
@@ -2320,7 +2320,7 @@
 ### cdsMainIsPay (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #26159#21542#36681#25033#20184 |
+| DisplayLabel | 是否轉應付 |
 | FieldName | 'IsPay' |
 | Size | 2 |
 | TypeFlags | [] |
@@ -2356,7 +2356,7 @@
 ### cdsMainisWW (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #26159#21542#22996#22806 |
+| DisplayLabel | 是否委外 |
 | FieldName | 'isWW' |
 | Size | 10 |
 | TypeFlags | [] |
@@ -2393,7 +2393,7 @@
 ### cdsMainLABELNO (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #27161#31805 |
+| DisplayLabel | 標簽 |
 | FieldName | 'LABELNO' |
 | Size | 16 |
 | TypeFlags | [] |
@@ -2418,7 +2418,7 @@
 ### cdsMainLamp (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #23565#33394#20809#28304 |
+| DisplayLabel | 對色光源 |
 | FieldName | 'Lamp' |
 | Size | 30 |
 | TypeFlags | [] |
@@ -2436,7 +2436,7 @@
 ### cdsMainLastDye (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #26159#21542#26368#24460#19968#38364 |
+| DisplayLabel | 是否最後一關 |
 | FieldName | 'LastDye' |
 | Size | 5 |
 | TypeFlags | [] |
@@ -2457,7 +2457,7 @@
 ### cdsMainLBTYPE (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #26579#25972#39006#21029 |
+| DisplayLabel | 染整類別 |
 | FieldName | 'LBTYPE' |
 | TypeFlags | [] |
 
@@ -2480,7 +2480,7 @@
 ### cdsMainLIGHT2 (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #21103#20809#28304'2' |
+| DisplayLabel | 副光源'2' |
 | FieldName | 'LIGHT2' |
 | Size | 30 |
 | TypeFlags | [] |
@@ -2498,7 +2498,7 @@
 ### cdsMainLOSE (TBCDFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #25613#32791 |
+| DisplayLabel | 損耗 |
 | FieldName | 'LOSE' |
 | Precision | 4 |
 | Size | 1 |
@@ -2507,7 +2507,7 @@
 ### cdsMainlotall (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #32568#24046#34920 |
+| DisplayLabel | 缸差表 |
 | FieldName | 'lotall' |
 | Size | 30 |
 | TypeFlags | [] |
@@ -2523,7 +2523,7 @@
 ### cdsMainLOTSTYLE (TIntegerFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #32568#34399#32232#27861 |
+| DisplayLabel | 缸號編法 |
 | FieldName | 'LOTSTYLE' |
 | TypeFlags | [] |
 
@@ -2542,7 +2542,7 @@
 ### cdsMainMeterW (TBCDFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #31859#37325 |
+| DisplayLabel | 米重 |
 | FieldName | 'MeterW' |
 | Precision | 12 |
 | Size | 2 |
@@ -2559,7 +2559,7 @@
 ### cdsMainMMRP (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #24037#21209 |
+| DisplayLabel | 工務 |
 | FieldName | 'MMRP' |
 | Size | 16 |
 | TypeFlags | [] |
@@ -2577,7 +2577,7 @@
 ### cdsMainMRPNO (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #29983#29986#31649#21046 |
+| DisplayLabel | 生產管制 |
 | FieldName | 'MRPNO' |
 | Required | True |
 | Size | 16 |
@@ -2659,14 +2659,14 @@
 ### cdsMainORDERDATE (TDateTimeField)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #19979#21934#26085#26399 |
+| DisplayLabel | 下單日期 |
 | FieldName | 'ORDERDATE' |
 | Required | True |
 
 ### cdsMainORDERNO (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #35330#21934#34399#30908 |
+| DisplayLabel | 訂單號碼 |
 | FieldName | 'ORDERNO' |
 | ReadOnly | True |
 | Required | True |
@@ -2676,7 +2676,7 @@
 ### cdsMainORDERSEQ (TIntegerFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #24207#34399 |
+| DisplayLabel | 序號 |
 | FieldName | 'ORDERSEQ' |
 | TypeFlags | [] |
 
@@ -2689,7 +2689,7 @@
 ### cdsMainPAYDAY (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #31080#26399#22825#25976 |
+| DisplayLabel | 票期天數 |
 | FieldName | 'PAYDAY' |
 | Size | 6 |
 | TypeFlags | [] |
@@ -2697,7 +2697,7 @@
 ### cdsMainPAYMENT (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #20184#27454#26041#24335 |
+| DisplayLabel | 付款方式 |
 | FieldName | 'PAYMENT' |
 | Size | 30 |
 | TypeFlags | [] |
@@ -2715,7 +2715,7 @@
 ### cdsMainPCSITEM (TIntegerFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #21305#34399#32232#27861 |
+| DisplayLabel | 匹號編法 |
 | FieldName | 'PCSITEM' |
 | TypeFlags | [] |
 
@@ -2794,7 +2794,7 @@
 ### cdsMainPRODNAME (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #24067#31278#21697#21517 |
+| DisplayLabel | 布種品名 |
 | FieldName | 'PRODNAME' |
 | Size | 1000 |
 | TypeFlags | [] |
@@ -2802,7 +2802,7 @@
 ### cdsMainPRODNO (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #21697#21517#32232#34399 |
+| DisplayLabel | 品名編號 |
 | FieldName | 'PRODNO' |
 | Required | True |
 | Size | 38 |
@@ -2811,7 +2811,7 @@
 ### cdsMainProdNoEng (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #33521#25991#21697#21517 |
+| DisplayLabel | 英文品名 |
 | FieldName | 'ProdNoEng' |
 | Size | 100 |
 | TypeFlags | [] |
@@ -2859,7 +2859,7 @@
 ### cdsMainPUNIT (TIntegerFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #35336#20729#21934#20301 |
+| DisplayLabel | 計價單位 |
 | FieldName | 'PUNIT' |
 | TypeFlags | [] |
 
@@ -2893,7 +2893,7 @@
 ### cdsMainQualityRequirement (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #22577#38364 |
+| DisplayLabel | 報關 |
 | FieldName | 'QualityRequirement' |
 | Size | 400 |
 | TypeFlags | [] |
@@ -2908,7 +2908,7 @@
 ### cdsMainremark (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #20633#35387 |
+| DisplayLabel | 備註 |
 | FieldName | 'remark' |
 | Size | 2000 |
 | TypeFlags | [] |
@@ -2936,7 +2936,7 @@
 ### cdsMainRinse (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #19978#28479 |
+| DisplayLabel | 上漿 |
 | FieldName | 'Rinse' |
 | Size | 1 |
 | TypeFlags | [] |
@@ -2944,7 +2944,7 @@
 ### cdsMainRMSNO (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #21407#35330#21934#34399#30908 |
+| DisplayLabel | 原訂單號碼 |
 | FieldName | 'RMSNO' |
 | Size | 60 |
 | TypeFlags | [] |
@@ -3320,7 +3320,7 @@
 ### cdsMainSALEMODE (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #35330#21934#39006#21029 |
+| DisplayLabel | 訂單類別 |
 | FieldName | 'SALEMODE' |
 | Size | 16 |
 | TypeFlags | [] |
@@ -3328,7 +3328,7 @@
 ### cdsMainSALESNO (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #26989#21209 |
+| DisplayLabel | 業務 |
 | FieldName | 'SALESNO' |
 | Size | 16 |
 | TypeFlags | [] |
@@ -3360,7 +3360,7 @@
 ### cdsMainSELF_FACT_NAME (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #20107#26989#21934#20301 |
+| DisplayLabel | 事業單位 |
 | FieldName | 'SELF_FACT_NAME' |
 | Size | 16 |
 | TypeFlags | [] |
@@ -3368,7 +3368,7 @@
 ### cdsMainSEQNO (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #26579#25972#21934#34399 |
+| DisplayLabel | 染整單號 |
 | FieldName | 'SEQNO' |
 | Required | True |
 | Size | 12 |
@@ -3405,7 +3405,7 @@
 ### cdsMainShrinkage_iron (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #25972#29145#32302#29575 |
+| DisplayLabel | 整燙縮率 |
 | FieldName | 'Shrinkage_iron' |
 | Size | 30 |
 | TypeFlags | [] |
@@ -3413,7 +3413,7 @@
 ### cdsMainShrinkage_lat (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #32239#21521#32302#29575 |
+| DisplayLabel | 緯向縮率 |
 | FieldName | 'Shrinkage_lat' |
 | Size | 30 |
 | TypeFlags | [] |
@@ -3428,7 +3428,7 @@
 ### cdsMainShrinkage_log (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #32147#21521#32302#29575 |
+| DisplayLabel | 經向縮率 |
 | FieldName | 'Shrinkage_log' |
 | Size | 30 |
 | TypeFlags | [] |
@@ -3436,7 +3436,7 @@
 ### cdsMainSIZEWEIGHT (TFMTBCDFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #29255#37325 |
+| DisplayLabel | 片重 |
 | FieldName | 'SIZEWEIGHT' |
 | Precision | 18 |
 | Size | 6 |
@@ -3445,7 +3445,7 @@
 ### cdsMainStarch (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #19978#28479 |
+| DisplayLabel | 上漿 |
 | FieldName | 'Starch' |
 | Size | 2 |
 | TypeFlags | [] |
@@ -3453,7 +3453,7 @@
 ### cdsMainSTATIONITEM (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #21152#24037#32068#21029 |
+| DisplayLabel | 加工組別 |
 | FieldName | 'STATIONITEM' |
 | Size | 16 |
 | TypeFlags | [] |
@@ -3499,7 +3499,7 @@
 ### cdsMainstyleno (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #27454#34399 |
+| DisplayLabel | 款號 |
 | FieldName | 'styleno' |
 | Size | 30 |
 | TypeFlags | [] |
@@ -3507,7 +3507,7 @@
 ### cdsMainsubresouce (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #21103#20809#28304 |
+| DisplayLabel | 副光源 |
 | FieldName | 'subresouce' |
 | Size | 30 |
 | TypeFlags | [] |
@@ -3555,7 +3555,7 @@
 ### cdsMainTestStandard (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #28204#35430#27161#28310 |
+| DisplayLabel | 測試標準 |
 | FieldName | 'TestStandard' |
 | Size | 400 |
 | TypeFlags | [] |
@@ -3571,7 +3571,7 @@
 ### cdsMainTOWHO (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #22996#22806#20132#36008#22320#40670 |
+| DisplayLabel | 委外交貨地點 |
 | FieldName | 'TOWHO' |
 | Size | 10 |
 | TypeFlags | [] |
@@ -3595,7 +3595,7 @@
 ### cdsMainTrim (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #20999#37002 |
+| DisplayLabel | 切邊 |
 | FieldName | 'Trim' |
 | Size | 2 |
 | TypeFlags | [] |
@@ -3603,14 +3603,14 @@
 ### cdsMainUNIT (TIntegerFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #21934#20301 |
+| DisplayLabel | 單位 |
 | FieldName | 'UNIT' |
 | TypeFlags | [] |
 
 ### cdsMainUPBWEIGHT (TBCDFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #24067#37325#19979#38480 |
+| DisplayLabel | 布重下限 |
 | FieldName | 'UPBWEIGHT' |
 | Precision | 5 |
 | Size | 1 |
@@ -3619,7 +3619,7 @@
 ### cdsMainUPBWIDTH (TBCDFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #24133#23532#19978#38480 |
+| DisplayLabel | 幅寬上限 |
 | FieldName | 'UPBWIDTH' |
 | Precision | 5 |
 | Size | 1 |
@@ -3628,7 +3628,7 @@
 ### cdsMainUPDATEDATE (TDateTimeField)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #20462#25913#26085#26399 |
+| DisplayLabel | 修改日期 |
 | FieldName | 'UPDATEDATE' |
 
 ### cdsMainUPDATENAME (TWideStringFieldWrapper)
@@ -3640,7 +3640,7 @@
 ### cdsMainUPORDER (TBCDFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #35330#37327#19978#38480 |
+| DisplayLabel | 訂量上限 |
 | FieldName | 'UPORDER' |
 | Precision | 5 |
 | Size | 1 |
@@ -3649,7 +3649,7 @@
 ### cdsMainUPWEIGHT (TBCDFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #24067#37325#19978#38480 |
+| DisplayLabel | 布重上限 |
 | FieldName | 'UPWEIGHT' |
 | Precision | 6 |
 | Size | 2 |
@@ -3658,7 +3658,7 @@
 ### cdsMainUPWIDTH (TBCDFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #37341#20839#24133#23532 |
+| DisplayLabel | 針內幅寬 |
 | FieldName | 'UPWIDTH' |
 | Precision | 6 |
 | Size | 2 |
@@ -3674,7 +3674,7 @@
 ### cdsMainusefor (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #21407#35330#21934#34399#30908 |
+| DisplayLabel | 原訂單號碼 |
 | FieldName | 'usefor' |
 | Size | 30 |
 | TypeFlags | [] |
@@ -3694,7 +3694,7 @@
 ### cdsMainWaterTrap (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #27700#29282 |
+| DisplayLabel | 水牢 |
 | FieldName | 'WaterTrap' |
 | Size | 30 |
 | TypeFlags | [] |
@@ -3755,28 +3755,28 @@
 ### cdsMainWEFT_BDENSITY (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #32239#23494 |
+| DisplayLabel | 緯密 |
 | FieldName | 'WEFT_BDENSITY' |
 | TypeFlags | [] |
 
 ### cdsMainWEFT_DENSITY (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #25104#21697#32239#23494 |
+| DisplayLabel | 成品緯密 |
 | FieldName | 'WEFT_DENSITY' |
 | TypeFlags | [] |
 
 ### cdsMainWEIGHTUNIT (TIntegerFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #24067#37325#21934#20301 |
+| DisplayLabel | 布重單位 |
 | FieldName | 'WEIGHTUNIT' |
 | TypeFlags | [] |
 
 ### cdsMainWIDTHKIND (TIntegerFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #24133#23532#39006#21029 |
+| DisplayLabel | 幅寬類別 |
 | FieldName | 'WIDTHKIND' |
 | TypeFlags | [] |
 
@@ -3807,7 +3807,7 @@
 ### cdsMainWIDTHUNIT (TIntegerFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #24133#23532#21934#20301 |
+| DisplayLabel | 幅寬單位 |
 | FieldName | 'WIDTHUNIT' |
 | TypeFlags | [] |
 
@@ -3833,7 +3833,7 @@
 ### cdsMainWType (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #21152#24037#39006#21029 |
+| DisplayLabel | 加工類別 |
 | FieldName | 'WType' |
 | Size | 38 |
 | TypeFlags | [] |
@@ -3866,7 +3866,7 @@
 ### cdsMainTOWHO2 (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | #25361#36984#36865#36008#22320#22336 |
+| DisplayLabel | 挑選送貨地址 |
 | FieldName | 'TOWHO2' |
 | Size | 16 |
 | TypeFlags | [] |

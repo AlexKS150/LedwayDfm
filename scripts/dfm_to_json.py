@@ -5,6 +5,14 @@ import argparse
 from typing import List, Dict, Any
 
 
+def decode_escapes(value: str) -> str:
+    """Decode #123 style escapes in DFM strings."""
+    def repl(match: re.Match) -> str:
+        return chr(int(match.group(1)))
+
+    return re.sub(r"#(\d+)", repl, value)
+
+
 def parse_dfm(file_path: str) -> List[Dict[str, Any]]:
     """Parse a .dfm file into a list of nested dictionaries."""
     stack: List[Dict[str, Any]] = []
@@ -25,7 +33,7 @@ def parse_dfm(file_path: str) -> List[Dict[str, Any]]:
                 pending_lines.append(line_content)
                 if line_content.endswith(')') or line_content.endswith('>'):
                     value = ' '.join(pending_lines)
-                    stack[-1]['properties'][pending_prop] = value
+                    stack[-1]['properties'][pending_prop] = decode_escapes(value)
                     pending_prop = None
                     pending_lines.clear()
                 continue
@@ -60,7 +68,7 @@ def parse_dfm(file_path: str) -> List[Dict[str, Any]]:
                     pending_prop = prop
                     pending_lines = [value]
                 else:
-                    stack[-1]['properties'][prop] = value
+                    stack[-1]['properties'][prop] = decode_escapes(value)
 
     return roots
 

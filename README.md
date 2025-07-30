@@ -16,6 +16,9 @@ python scripts/dfm_to_json.py <path>
   provided, it will be scanned recursively for `.dfm` files.
 - Each parsed form is saved alongside the original file as `filename.json`.
 
+Numeric escape sequences like `#12345` inside the DFM are automatically
+decoded to their corresponding Unicode characters.
+
 Example:
 
 ```
