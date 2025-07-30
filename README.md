@@ -27,3 +27,15 @@ and prints the paths of the generated files.
 
 An example conversion for `F417_DyeMain.dfm` is included in this repository as
 `F417_DyeMain.json`.
+
+## Generating Markdown summaries
+
+You can also generate a Markdown file listing each object's properties for easy
+review:
+
+```
+python scripts/dfm_to_markdown.py <path>
+```
+
+The behavior of `<path>` matches the JSON converter. A file named
+`filename.md` will be written next to each processed `.dfm` file.
