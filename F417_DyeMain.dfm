@@ -32,6 +32,8 @@ object F417_DyeMain: TFrmBase
     Width = 65
     Height = 18
     Caption = 'F_EditDye'
+    Font.Style = [fsBold]
+    ParentFont = False
     Visible = False
   end
   object pnlTop: TPanel
@@ -58,6 +60,8 @@ object F417_DyeMain: TFrmBase
           Width = 60
           Height = 18
           Caption = #26579#25972#21934#34399
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbFACTNO: TLabel
           Left = 271
@@ -65,20 +69,26 @@ object F417_DyeMain: TFrmBase
           Width = 60
           Height = 18
           Caption = #24288#21830#21517#31281
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbORDERNO: TLabel
           Left = 533
           Top = 5
           Width = 60
           Height = 18
-          Caption = #35330#21934#34399#30908
+          Caption = #23458#25142#21934#34399
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbCUSTORDER: TLabel
           Left = 795
           Top = 5
           Width = 60
           Height = 18
-          Caption = #23458#25142#21934#34399
+          Caption = #35330#21934#34399#30908
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbLBTYPE: TLabel
           Left = 9
@@ -86,6 +96,8 @@ object F417_DyeMain: TFrmBase
           Width = 60
           Height = 18
           Caption = #26579#25972#39006#21029
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbPRODNO: TLabel
           Left = 271
@@ -93,6 +105,8 @@ object F417_DyeMain: TFrmBase
           Width = 60
           Height = 18
           Caption = #21697#21517#32232#34399
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbPRODNAME: TLabel
           Left = 533
@@ -100,6 +114,8 @@ object F417_DyeMain: TFrmBase
           Width = 60
           Height = 18
           Caption = #24067#31278#21697#21517
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbUPWIDTH: TLabel
           Left = 795
@@ -107,6 +123,8 @@ object F417_DyeMain: TFrmBase
           Width = 60
           Height = 18
           Caption = #37341#20839#24133#23532
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbDNWIDTH: TLabel
           Left = 9
@@ -114,6 +132,8 @@ object F417_DyeMain: TFrmBase
           Width = 45
           Height = 18
           Caption = #20840#24133#23532
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbDNWEIGHT: TLabel
           Left = 271
@@ -121,6 +141,8 @@ object F417_DyeMain: TFrmBase
           Width = 30
           Height = 18
           Caption = #24067#37325
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbUPWEIGHT: TLabel
           Left = 533
@@ -128,6 +150,8 @@ object F417_DyeMain: TFrmBase
           Width = 60
           Height = 18
           Caption = #24067#37325#19978#38480
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbWEIGHTUNIT: TLabel
           Left = 795
@@ -135,6 +159,8 @@ object F417_DyeMain: TFrmBase
           Width = 60
           Height = 18
           Caption = #24067#37325#21934#20301
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbRinse: TLabel
           Left = 9
@@ -142,6 +168,8 @@ object F417_DyeMain: TFrmBase
           Width = 30
           Height = 18
           Caption = #19978#28479
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbTrim: TLabel
           Left = 271
@@ -149,6 +177,8 @@ object F417_DyeMain: TFrmBase
           Width = 30
           Height = 18
           Caption = #20999#37002
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbLOSE: TLabel
           Left = 533
@@ -156,6 +186,8 @@ object F417_DyeMain: TFrmBase
           Width = 30
           Height = 18
           Caption = #25613#32791
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbMRPNO: TLabel
           Left = 795
@@ -163,6 +195,8 @@ object F417_DyeMain: TFrmBase
           Width = 60
           Height = 18
           Caption = #29983#29986#31649#21046
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbDELDATE: TLabel
           Left = 9
@@ -170,6 +204,8 @@ object F417_DyeMain: TFrmBase
           Width = 30
           Height = 18
           Caption = #20132#26399
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lblotall: TLabel
           Left = 271
@@ -177,6 +213,8 @@ object F417_DyeMain: TFrmBase
           Width = 45
           Height = 18
           Caption = #32568#24046#34920
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbcheckall: TLabel
           Left = 533
@@ -184,6 +222,8 @@ object F417_DyeMain: TFrmBase
           Width = 45
           Height = 18
           Caption = #20840#27298#34920
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbORDERDATE: TLabel
           Left = 795
@@ -191,6 +231,8 @@ object F417_DyeMain: TFrmBase
           Width = 60
           Height = 18
           Caption = #19979#21934#26085#26399
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbDROPW: TLabel
           Left = 9
@@ -198,6 +240,8 @@ object F417_DyeMain: TFrmBase
           Width = 60
           Height = 18
           Caption = #25237#32986#25976#37327
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbDELQTY: TLabel
           Left = 271
@@ -205,6 +249,8 @@ object F417_DyeMain: TFrmBase
           Width = 45
           Height = 18
           Caption = #20986#36008#37327
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object lbremark: TLabel
           Left = 533
@@ -212,11 +258,13 @@ object F417_DyeMain: TFrmBase
           Width = 30
           Height = 18
           Caption = #20633#35387
+          Font.Style = [fsBold]
+          ParentFont = False
         end
         object edtSEQNO: TDBEdit
           Left = 5
           Top = 23
-          Width = 250
+          Width = 263
           Height = 26
           Color = clAqua
           DataField = 'SEQNO'
@@ -227,7 +275,7 @@ object F417_DyeMain: TFrmBase
         object edtFACTNO: TwwDBLookupComboWrapper
           Left = 267
           Top = 23
-          Width = 250
+          Width = 263
           Height = 26
           DropDownAlignment = taLeftJustify
           DataField = 'FACTNO_abbr'
@@ -243,7 +291,7 @@ object F417_DyeMain: TFrmBase
         object edtORDERNO: TDBEdit
           Left = 529
           Top = 23
-          Width = 250
+          Width = 263
           Height = 26
           Color = clMoneyGreen
           DataField = 'ORDERNO'
@@ -253,7 +301,7 @@ object F417_DyeMain: TFrmBase
         object edtCUSTORDER: TDBEdit
           Left = 791
           Top = 23
-          Width = 250
+          Width = 263
           Height = 26
           DataField = 'CUSTORDER'
           DataSource = dsMainCDS
@@ -262,7 +310,7 @@ object F417_DyeMain: TFrmBase
         object edtLBTYPE: TwwDBLookupComboWrapper
           Left = 5
           Top = 73
-          Width = 250
+          Width = 263
           Height = 26
           DropDownAlignment = taLeftJustify
           DataField = 'LBTYPE_abbr'
@@ -277,7 +325,7 @@ object F417_DyeMain: TFrmBase
         object edtPRODNO: TwwDBLookupComboWrapper
           Left = 267
           Top = 73
-          Width = 250
+          Width = 263
           Height = 26
           DropDownAlignment = taLeftJustify
           DataField = 'PRODNO_abbr'
@@ -293,7 +341,7 @@ object F417_DyeMain: TFrmBase
         object edtPRODNAME: TDBEdit
           Left = 529
           Top = 73
-          Width = 250
+          Width = 263
           Height = 26
           Color = clTeal
           DataField = 'PRODNAME'
@@ -303,7 +351,7 @@ object F417_DyeMain: TFrmBase
         object edtUPWIDTH: TDBEdit
           Left = 791
           Top = 73
-          Width = 250
+          Width = 263
           Height = 26
           DataField = 'UPWIDTH'
           DataSource = dsMainCDS
@@ -312,7 +360,7 @@ object F417_DyeMain: TFrmBase
         object edtDNWIDTH: TDBEdit
           Left = 5
           Top = 123
-          Width = 250
+          Width = 263
           Height = 26
           DataField = 'DNWIDTH'
           DataSource = dsMainCDS
@@ -321,7 +369,7 @@ object F417_DyeMain: TFrmBase
         object edtDNWEIGHT: TDBEdit
           Left = 267
           Top = 123
-          Width = 250
+          Width = 263
           Height = 26
           DataField = 'DNWEIGHT'
           DataSource = dsMainCDS
@@ -330,7 +378,7 @@ object F417_DyeMain: TFrmBase
         object edtUPWEIGHT: TDBEdit
           Left = 529
           Top = 123
-          Width = 250
+          Width = 263
           Height = 26
           DataField = 'UPWEIGHT'
           DataSource = dsMainCDS
@@ -339,7 +387,7 @@ object F417_DyeMain: TFrmBase
         object edtWEIGHTUNIT: TwwDBComboBox
           Left = 791
           Top = 123
-          Width = 250
+          Width = 263
           Height = 26
           ShowButton = True
           Style = csDropDown
@@ -360,7 +408,7 @@ object F417_DyeMain: TFrmBase
         object edtRinse: TwwDBComboBox
           Left = 5
           Top = 173
-          Width = 250
+          Width = 263
           Height = 26
           ShowButton = True
           Style = csDropDown
@@ -380,7 +428,7 @@ object F417_DyeMain: TFrmBase
         object edtTrim: TwwDBComboBox
           Left = 267
           Top = 173
-          Width = 250
+          Width = 263
           Height = 26
           ShowButton = True
           Style = csDropDown
@@ -400,7 +448,7 @@ object F417_DyeMain: TFrmBase
         object edtLOSE: TDBEdit
           Left = 529
           Top = 173
-          Width = 250
+          Width = 263
           Height = 26
           DataField = 'LOSE'
           DataSource = dsMainCDS
@@ -409,7 +457,7 @@ object F417_DyeMain: TFrmBase
         object edtMRPNO: TwwDBLookupComboWrapper
           Left = 791
           Top = 173
-          Width = 250
+          Width = 263
           Height = 26
           DropDownAlignment = taLeftJustify
           DataField = 'MRPNO_abbr'
@@ -425,7 +473,7 @@ object F417_DyeMain: TFrmBase
         object edtDELDATE: TwwDBDateTimePicker
           Left = 5
           Top = 223
-          Width = 250
+          Width = 263
           Height = 26
           CalendarAttributes.Font.Charset = DEFAULT_CHARSET
           CalendarAttributes.Font.Color = clWindowText
@@ -443,7 +491,7 @@ object F417_DyeMain: TFrmBase
         object edtlotall: TDBEdit
           Left = 267
           Top = 223
-          Width = 250
+          Width = 263
           Height = 26
           DataField = 'lotall'
           DataSource = dsMainCDS
@@ -452,7 +500,7 @@ object F417_DyeMain: TFrmBase
         object edtcheckall: TDBEdit
           Left = 529
           Top = 223
-          Width = 250
+          Width = 263
           Height = 26
           DataField = 'checkall'
           DataSource = dsMainCDS
@@ -461,7 +509,7 @@ object F417_DyeMain: TFrmBase
         object edtORDERDATE: TwwDBDateTimePicker
           Left = 791
           Top = 223
-          Width = 250
+          Width = 263
           Height = 26
           CalendarAttributes.Font.Charset = DEFAULT_CHARSET
           CalendarAttributes.Font.Color = clWindowText
@@ -479,7 +527,7 @@ object F417_DyeMain: TFrmBase
         object edtDROPW: TDBEdit
           Left = 5
           Top = 273
-          Width = 250
+          Width = 263
           Height = 26
           DataField = 'DROPW'
           DataSource = dsMainCDS
@@ -488,7 +536,7 @@ object F417_DyeMain: TFrmBase
         object edtDELQTY: TDBEdit
           Left = 267
           Top = 273
-          Width = 250
+          Width = 263
           Height = 26
           DataField = 'DELQTY'
           DataSource = dsMainCDS
@@ -497,7 +545,7 @@ object F417_DyeMain: TFrmBase
         object edtremark: TDBMemo
           Left = 529
           Top = 273
-          Width = 250
+          Width = 263
           Height = 100
           DataField = 'remark'
           DataSource = dsMainCDS
@@ -1544,7 +1592,7 @@ object F417_DyeMain: TFrmBase
       TypeFlags = []
     end
     object cdsMainCUSTORDER: TWideStringFieldWrapper
-      DisplayLabel = #23458#25142#21934#34399
+      DisplayLabel = #35330#21934#34399#30908
       FieldName = 'CUSTORDER'
       Size = 60
       TypeFlags = []
@@ -2292,7 +2340,7 @@ object F417_DyeMain: TFrmBase
       Required = True
     end
     object cdsMainORDERNO: TWideStringFieldWrapper
-      DisplayLabel = #35330#21934#34399#30908
+      DisplayLabel = #23458#25142#21934#34399
       FieldName = 'ORDERNO'
       ReadOnly = True
       Required = True
