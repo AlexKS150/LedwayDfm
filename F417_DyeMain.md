@@ -94,7 +94,7 @@
 | Top | 5 |
 | Width | 60 |
 | Height | 18 |
-| Caption | 訂單號碼 |
+| Caption | 客戶單號 |
 
 ##### lbCUSTORDER (TLabel)
 | Property | Value |
@@ -103,7 +103,7 @@
 | Top | 5 |
 | Width | 60 |
 | Height | 18 |
-| Caption | 客戶單號 |
+| Caption | 訂單號碼 |
 
 ##### lbLBTYPE (TLabel)
 | Property | Value |
@@ -1650,7 +1650,7 @@
 ### cdsMainCUSTORDER (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | 客戶單號 |
+| DisplayLabel | 訂單號碼 |
 | FieldName | 'CUSTORDER' |
 | Size | 60 |
 | TypeFlags | [] |
@@ -2666,7 +2666,7 @@
 ### cdsMainORDERNO (TWideStringFieldWrapper)
 | Property | Value |
 | --- | --- |
-| DisplayLabel | 訂單號碼 |
+| DisplayLabel | 客戶單號 |
 | FieldName | 'ORDERNO' |
 | ReadOnly | True |
 | Required | True |
